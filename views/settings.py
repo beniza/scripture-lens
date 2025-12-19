@@ -141,7 +141,9 @@ def render(project_name, db_path):
         with col2:
             st.markdown("##### Sync")
             last_sync = settings.get("lastSyncTime", "Never")
-            st.caption(f"Last: {last_sync[:16] if last_sync != 'Never' else 'Never'}")
+            # Ensure last_sync is a string and handle None/Never gracefully
+            display_sync = last_sync[:16] if isinstance(last_sync, str) and last_sync != "Never" else "Never"
+            st.caption(f"Last: {display_sync}")
             
             if st.button("🔄 Sync Now", type="primary", use_container_width=True):
                 with st.spinner("Syncing..."):
