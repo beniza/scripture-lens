@@ -123,36 +123,51 @@ def render(project_name, db_path):
         with col1:
             st.markdown("##### Data Path")
             current_path = settings.get("clearAlignerDataPath", "data")
-            new_path = st.text_input("SQLite folder", value=current_path, label_visibility="collapsed")
             
-            if new_path != current_path:
-                settings["clearAlignerDataPath"] = new_path
-                save_settings(settings)
+            # Hidden path input (Easter Egg)
+            if st.session_state.get("show_data_settings", False):
+                new_path = st.text_input("SQLite folder", value=current_path, label_visibility="collapsed")
+                if new_path != current_path:
+                    settings["clearAlignerDataPath"] = new_path
+                    from utils.data_loader import save_settings
+                    save_settings(settings)
             
             # Status
-            data_path = Path(__file__).parent.parent / new_path
+            data_path = Path(__file__).parent.parent / current_path
+            db_files = []
             if data_path.exists():
                 db_files = [f for f in data_path.glob("clear-aligner-*.sqlite") if "-updated" not in f.name]
                 db_files.extend([f for f in data_path.glob("demo-*.sqlite") if "-updated" not in f.name])
-                st.caption(f"📁 {len(db_files)} databases found")
+                st.caption(f"📁 Source: {current_path}/ {'(Connected)' if db_files else '(JSON Mode)'}")
+                if db_files:
+                    st.caption(f"✓ {len(db_files)} databases detected")
             else:
-                st.caption("⚠️ Path not found")
+                st.caption(f"📁 Source: JSON only")
         
         with col2:
             st.markdown("##### Sync")
             last_sync = settings.get("lastSyncTime", "Never")
-            # Ensure last_sync is a string and handle None/Never gracefully
             display_sync = last_sync[:16] if isinstance(last_sync, str) and last_sync != "Never" else "Never"
             st.caption(f"Last: {display_sync}")
             
-            if st.button("🔄 Sync Now", type="primary", use_container_width=True):
-                with st.spinner("Syncing..."):
-                    success, _, stderr = run_data_sync()
-                    if success:
-                        st.success("✓")
-                        st.rerun()
-                    else:
-                        st.error("Failed")
+            # Show sync button only if DB is detected (Automatic activation)
+            if db_files:
+                if st.button("🔄 Sync Now", type="primary", use_container_width=True):
+                    with st.spinner("Syncing..."):
+                        from utils import run_data_sync
+                        success, _, stderr = run_data_sync()
+                        if success:
+                            st.success("✓")
+                            st.rerun()
+                        else:
+                            st.error("Failed")
+            else:
+                st.info("Live DB not connected")
+        
+        # Secret toggle for data settings (Triple click header or similar is hard in Streamlit, so let's use a hidden button or just double-clicking something)
+        if st.caption("App running in Optimized JSON mode").button("🔧", type="secondary"):
+            st.session_state.show_data_settings = not st.session_state.get("show_data_settings", False)
+            st.rerun()
         
         # Projects
         st.divider()

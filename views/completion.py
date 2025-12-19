@@ -12,7 +12,10 @@ from utils import load_completion_data
 def render(df, project_name, db_path):
     """Completion overview page with charts and summary."""
     st.title(f"📊 {project_name}")
-    st.caption(f"Database: {os.path.basename(db_path)}")
+    if db_path:
+        st.caption(f"Database: {os.path.basename(db_path)}")
+    else:
+        st.caption("Mode: Optimized JSON (Exported Data)")
     
     # Sidebar filter
     st.sidebar.markdown("---")
@@ -20,7 +23,7 @@ def render(df, project_name, db_path):
     testament_filter = st.sidebar.radio("Testament", ["All", "NT", "OT"], key="comp_testament")
     show_empty = st.sidebar.checkbox("Show books with 0%", value=True, key="comp_show_empty")
     
-    comp_df = load_completion_data(db_path)
+    comp_df = load_completion_data(project_name, db_path)
     
     # Apply testament filter
     if testament_filter == "NT":

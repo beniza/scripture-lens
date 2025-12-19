@@ -10,10 +10,15 @@ from utils import BIBLE_BOOKS, get_connection
 
 
 @st.cache_data
-def load_chapter_text(db_path, position_book, position_chapter):
-    """Load target text for a chapter with alignment info."""
+def load_chapter_text(project_id, db_path, position_book, position_chapter):
+    """Load target text for a chapter from SQLite or JSON."""
+    if db_path and Path(db_path).exists():
+        return _load_chapter_sqlite(db_path, position_book, position_chapter)
+    return _load_chapter_json(project_id, position_book, position_chapter)
+
+
+def _load_chapter_sqlite(db_path, position_book, position_chapter):
     conn = get_connection(db_path)
-    
     query = """
     SELECT 
         tw.id as word_id,
@@ -34,9 +39,60 @@ def load_chapter_text(db_path, position_book, position_chapter):
     GROUP BY tw.id
     ORDER BY tw.position_verse, tw.position_word
     """
+    return pd.read_sql_query(query, conn, params=[position_book, position_chapter])
+
+
+def _load_chapter_json(project_id, position_book, position_chapter):
+    """Fallback JSON loader for scripture text."""
+    from utils import APP_DATA_DIR
+    import json
     
-    df = pd.read_sql_query(query, conn, params=[position_book, position_chapter])
-    return df
+    # 1. Load target text
+    target_file = None
+    target_dir = APP_DATA_DIR / "targets" / project_id
+    for f in target_dir.glob(f"{position_book}_*.json"):
+        target_file = f
+        break
+        
+    if not target_file or not target_file.exists():
+        return pd.DataFrame()
+        
+    with open(target_file, 'r', encoding='utf-8') as f:
+        target_data = json.load(f)
+        
+    # 2. Load alignments
+    align_file = APP_DATA_DIR / "alignments" / project_id / target_file.name
+    align_data = {"records": []}
+    if align_file.exists():
+        with open(align_file, 'r', encoding='utf-8') as f:
+            align_data = json.load(f)
+            
+    # Map target word ID -> alignment record
+    align_map = {}
+    for rec in align_data.get('records', []):
+        for t_id in rec.get('targetIds', []):
+            align_map[t_id] = rec
+            
+    # Flatten JSON to DataFrame
+    rows = []
+    for ch_data in target_data.get('chapters', []):
+        if ch_data.get('chapter') != position_chapter:
+            continue
+        for vs_data in ch_data.get('verses', []):
+            verse_num = vs_data.get('verse')
+            for word in vs_data.get('words', []):
+                w_id = word.get('id')
+                align = align_map.get(w_id, {})
+                rows.append({
+                    'word_id': w_id,
+                    'text': word.get('text'),
+                    'position_verse': verse_num,
+                    'position_word': word.get('position'),
+                    'source_text': ' '.join(align.get('sourceText', [])),
+                    'source_lemma': '', # Not readily available in flat alignment JSON
+                    'source_gloss': ''
+                })
+    return pd.DataFrame(rows)
 
 
 def render(project_name, db_path):
@@ -87,7 +143,7 @@ def render(project_name, db_path):
     
     # Load data
     with st.spinner("Loading..."):
-        df = load_chapter_text(db_path, book_id, chapter)
+        df = load_chapter_text(project_name, db_path, book_id, chapter)
     
     if df.empty:
         st.warning(f"No text found for {selected_book} {chapter}")

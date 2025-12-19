@@ -5,15 +5,22 @@ Displays words in vertical stacks with lemma, gloss, and translation
 
 import streamlit as st
 import pandas as pd
+from pathlib import Path
+import json
 
 from utils import BIBLE_BOOKS, get_connection
 
 
 @st.cache_data
-def load_interlinear_data(db_path, position_book, position_chapter):
-    """Load interlinear data ordered by source word position."""
+def load_interlinear_data(project_id, db_path, position_book, position_chapter):
+    """Load interlinear data from SQLite or JSON fallback."""
+    if db_path and Path(db_path).exists():
+        return _load_interlinear_sqlite(db_path, position_book, position_chapter)
+    return _load_interlinear_json(project_id, position_book, position_chapter, reverse=False)
+
+
+def _load_interlinear_sqlite(db_path, position_book, position_chapter):
     conn = get_connection(db_path)
-    
     query = """
     SELECT 
         sw.id as source_id,
@@ -28,7 +35,7 @@ def load_interlinear_data(db_path, position_book, position_chapter):
     FROM words_or_parts sw
     LEFT JOIN links__source_words lsw ON sw.id = lsw.word_id
     LEFT JOIN links l ON lsw.link_id = l.id
-    LEFT JOIN links__target_words ltw ON l.id = ltw.link_id
+    LEFT JOIN links__target_words ltw ON l.id = ltw.word_id
     LEFT JOIN words_or_parts tw ON ltw.word_id = tw.id
     WHERE sw.side = 'sources'
       AND sw.position_book = ?
@@ -36,16 +43,19 @@ def load_interlinear_data(db_path, position_book, position_chapter):
     GROUP BY sw.id
     ORDER BY sw.position_verse, sw.position_word
     """
-    
-    df = pd.read_sql_query(query, conn, params=[position_book, position_chapter])
-    return df
+    return pd.read_sql_query(query, conn, params=[position_book, position_chapter])
 
 
 @st.cache_data
-def load_reverse_interlinear_data(db_path, position_book, position_chapter):
-    """Load interlinear data ordered by target word position (reverse interlinear)."""
+def load_reverse_interlinear_data(project_id, db_path, position_book, position_chapter):
+    """Load reverse interlinear data from SQLite or JSON fallback."""
+    if db_path and Path(db_path).exists():
+        return _load_reverse_interlinear_sqlite(db_path, position_book, position_chapter)
+    return _load_interlinear_json(project_id, position_book, position_chapter, reverse=True)
+
+
+def _load_reverse_interlinear_sqlite(db_path, position_book, position_chapter):
     conn = get_connection(db_path)
-    
     query = """
     SELECT 
         tw.id as target_id,
@@ -67,9 +77,81 @@ def load_reverse_interlinear_data(db_path, position_book, position_chapter):
     GROUP BY tw.id
     ORDER BY tw.position_verse, tw.position_word
     """
+    return pd.read_sql_query(query, conn, params=[position_book, position_chapter])
+
+
+def _load_interlinear_json(project_id, position_book, position_chapter, reverse=False):
+    """Fallback JSON loader for interlinear data."""
+    from utils import APP_DATA_DIR
     
-    df = pd.read_sql_query(query, conn, params=[position_book, position_chapter])
-    return df
+    # Load alignments
+    align_file = None
+    align_dir = APP_DATA_DIR / "alignments" / project_id
+    for f in align_dir.glob(f"{position_book}_*.json"):
+        align_file = f
+        break
+        
+    if not align_file or not align_file.exists():
+        return pd.DataFrame()
+        
+    with open(align_file, 'r', encoding='utf-8') as f:
+        align_data = json.load(f)
+        
+    records = []
+    if reverse:
+        target_file = APP_DATA_DIR / "targets" / project_id / align_file.name
+        if not target_file.exists():
+            return pd.DataFrame()
+        with open(target_file, 'r', encoding='utf-8') as f:
+            target_data = json.load(f)
+            
+        align_map = {}
+        for rec in align_data.get('records', []):
+            for t_id in rec.get('targetIds', []):
+                align_map[t_id] = rec
+                
+        for ch in target_data.get('chapters', []):
+            if ch.get('chapter') != position_chapter: continue
+            for vs in ch.get('verses', []):
+                v_num = vs.get('verse')
+                for w in vs.get('words', []):
+                    w_id = w.get('id')
+                    align = align_map.get(w_id, {})
+                    records.append({
+                        'target_id': w_id,
+                        'target_text': w.get('text'),
+                        'position_verse': v_num,
+                        'target_position': w.get('position'),
+                        'source_text': ' '.join(align.get('sourceText', [])),
+                        'lemma': '',
+                        'gloss': '',
+                        'status': align.get('status', '')
+                    })
+    else:
+        # Standard interlinear - reconstruct from alignments
+        src_map = {}
+        for rec in align_data.get('records', []):
+            for s_id in rec.get('sourceIds', []):
+                parts = s_id.split(':')[-1]
+                if len(parts) >= 9:
+                    ch = int(parts[3:6])
+                    if ch != position_chapter: continue
+                    v = int(parts[6:9])
+                    pos = int(parts[9:12])
+                    src_map[s_id] = {
+                        'source_id': s_id,
+                        'source_text': ' '.join(rec.get('sourceText', [])),
+                        'lemma': '',
+                        'gloss': '',
+                        'normalized_text': '',
+                        'position_verse': v,
+                        'position_word': pos,
+                        'status': rec.get('status'),
+                        'target_text': ' '.join(rec.get('targetText', []))
+                    }
+        return pd.DataFrame(src_map.values()).sort_values(['position_verse', 'position_word'])
+
+    return pd.DataFrame(records)
 
 
 def render(project_name, db_path):
@@ -138,9 +220,9 @@ def render(project_name, db_path):
     # Load data based on mode
     with st.spinner("Loading..."):
         if reverse:
-            df = load_reverse_interlinear_data(db_path, book_id, chapter)
+            df = load_reverse_interlinear_data(project_name, db_path, book_id, chapter)
         else:
-            df = load_interlinear_data(db_path, book_id, chapter)
+            df = load_interlinear_data(project_name, db_path, book_id, chapter)
     
     if df.empty:
         st.warning(f"No data found for {selected_book} {chapter}")
@@ -167,10 +249,9 @@ def render(project_name, db_path):
                 grid_html = '<div style="display:flex; flex-wrap:wrap; gap:2px;">'
                 for word in words_list:
                     source = word['source_text'] or ''
-                    lemma = word['lemma'] or ''
-                    gloss = word['gloss'] or ''
+                    lemma = word.get('lemma', '') or ''
+                    gloss = word.get('gloss', '') or ''
                     target = word['target_text'] or ''
-                    status = word.get('status', '')
                     
                     # Build tooltip
                     tooltip_parts = []
@@ -209,8 +290,8 @@ def render(project_name, db_path):
                     for idx, word in enumerate(row_words):
                         with cols[idx]:
                             source = word['source_text'] or ''
-                            lemma = word['lemma'] or ''
-                            gloss = word['gloss'] or ''
+                            lemma = word.get('lemma', '') or ''
+                            gloss = word.get('gloss', '') or ''
                             target = word['target_text'] or ''
                             
                             # Tooltip for card
@@ -252,5 +333,3 @@ def render(project_name, db_path):
             st.markdown("🟢 **Green** = Target | 🔵 **Blue** = Source")
         else:
             st.markdown("🔵 **Blue** = Source | 🟢 **Green** = Target")
-
-
