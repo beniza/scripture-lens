@@ -25,6 +25,7 @@ def get_available_databases():
         dict: Mapping of project name to database path
     """
     db_files = list(DATA_DIR.glob("clear-aligner-*.sqlite"))
+    db_files.extend(list(DATA_DIR.glob("demo-*.sqlite")))
     db_files = [f for f in db_files if "-updated" not in f.name]
     
     projects = {}

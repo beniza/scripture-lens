@@ -133,6 +133,7 @@ def render(project_name, db_path):
             data_path = Path(__file__).parent.parent / new_path
             if data_path.exists():
                 db_files = [f for f in data_path.glob("clear-aligner-*.sqlite") if "-updated" not in f.name]
+                db_files.extend([f for f in data_path.glob("demo-*.sqlite") if "-updated" not in f.name])
                 st.caption(f"📁 {len(db_files)} databases found")
             else:
                 st.caption("⚠️ Path not found")

@@ -15,6 +15,7 @@ def render(project_name, db_path):
     
     # Build DB list with project names
     all_dbs = list(DATA_DIR.glob("clear-aligner-*.sqlite"))
+    all_dbs.extend(list(DATA_DIR.glob("demo-*.sqlite")))
     all_dbs = sorted([f for f in all_dbs if "-updated" not in f.name])
     
     # Get project names for each database
