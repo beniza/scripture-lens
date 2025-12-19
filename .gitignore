@@ -27,3 +27,8 @@ Thumbs.db
 
 # User settings (created automatically)
 settings/config.json
+
+# SQLite databases and data folders
+data/
+data.old/
+*.sqlite
