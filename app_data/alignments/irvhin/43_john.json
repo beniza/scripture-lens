@@ -1,0 +1,9177 @@
+{
+  "type": "translation",
+  "book": 43,
+  "bookName": "John",
+  "records": [
+    {
+      "id": "003e46e5-9104-4449-aae5-690ccf799197",
+      "sourceText": [
+        "κανὰ"
+      ],
+      "targetText": [
+        "काना"
+      ],
+      "sourceIds": [
+        "sources:43002001009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "00a17e83-aa30-495a-b20f-40e0a99ef77a",
+      "sourceText": [
+        "φωτός"
+      ],
+      "targetText": [
+        "ज्योति"
+      ],
+      "sourceIds": [
+        "sources:43001007009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "00a7395b-02a0-4ef2-b4e8-3d6cc6607954",
+      "sourceText": [
+        "ποῦ"
+      ],
+      "targetText": [
+        "कहाँ"
+      ],
+      "sourceIds": [
+        "sources:43001038022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "016177e6-1e84-4044-9ee9-945656b09a5d",
+      "sourceText": [
+        "μήτηρ"
+      ],
+      "targetText": [
+        "माता"
+      ],
+      "sourceIds": [
+        "sources:43002001015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "017599e2-e951-4769-b4b9-cc41d87a9e6a",
+      "sourceText": [
+        "ἄνω"
+      ],
+      "targetText": [
+        "मुहाँमुहँ"
+      ],
+      "sourceIds": [
+        "sources:43002007013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "024f9803-a7fb-46e2-ad92-e41a6bb168bc",
+      "sourceText": [
+        "ἀπεκρίθη",
+        "εἶπεν"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001021018",
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0264e590-b6d2-48c8-9025-ca6da865c0f3",
+      "sourceText": [
+        "σάρξ"
+      ],
+      "targetText": [
+        "शरीर"
+      ],
+      "sourceIds": [
+        "sources:43003006006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "031c95e8-c907-4ec5-8f2d-015692caa4f5",
+      "sourceText": [
+        "χάρις"
+      ],
+      "targetText": [
+        "अनुग्रह"
+      ],
+      "sourceIds": [
+        "sources:43001017008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "03e0dce7-8115-43bf-9a8b-dba29f9a5e0a",
+      "sourceText": [
+        "δίδωσιν"
+      ],
+      "targetText": [
+        "वह",
+        "देता"
+      ],
+      "sourceIds": [
+        "sources:43003034015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "04c47342-aa1d-40a1-a75a-47f8b79de830",
+      "sourceText": [
+        "ὥρα"
+      ],
+      "targetText": [
+        "घंटे"
+      ],
+      "sourceIds": [
+        "sources:43001039019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0532d3d1-5e11-4a1d-a220-051b9b8c0c74",
+      "sourceText": [
+        "διάκονοι"
+      ],
+      "targetText": [
+        "सेवकों",
+        "ने"
+      ],
+      "sourceIds": [
+        "sources:43002009017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0658e0de-ff9c-4ca0-8363-bdbec88209c9",
+      "sourceText": [
+        "ὄνομα"
+      ],
+      "targetText": [
+        "नाम"
+      ],
+      "sourceIds": [
+        "sources:43001006006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0663a9ff-0e2f-4df7-96e5-a52f2279abba",
+      "sourceText": [
+        "ἐμὲ",
+        "ἐλαττοῦσθαι"
+      ],
+      "targetText": [
+        "मैं",
+        "घटूँ"
+      ],
+      "sourceIds": [
+        "sources:43003030004",
+        "sources:43003030006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "06dd7cb7-df6c-4185-8e70-0d5221b3813c",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "06e76963-0002-4821-aaa4-ecb432f2660a",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "070cd9ed-e2ee-4cfd-919f-9973110926d3",
+      "sourceText": [
+        "ἀδελφὸν"
+      ],
+      "targetText": [
+        "भाई"
+      ],
+      "sourceIds": [
+        "sources:43001041005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "074e8513-7f7a-429c-a575-553d83a9470a",
+      "sourceText": [
+        "διακόνοις"
+      ],
+      "targetText": [
+        "सेवकों"
+      ],
+      "sourceIds": [
+        "sources:43002005006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "07571d31-1069-48cc-8727-43422553380c",
+      "sourceText": [
+        "ὑψωθῆναι"
+      ],
+      "targetText": [
+        "ऊँचे",
+        "पर",
+        "चढ़ाया",
+        "जाए"
+      ],
+      "sourceIds": [
+        "sources:43003014011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "07632dd4-8098-4791-a2fc-5edd3acd6430",
+      "sourceText": [
+        "κέρματα"
+      ],
+      "targetText": [
+        "पैसे"
+      ],
+      "sourceIds": [
+        "sources:43002015022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "07981a34-6533-424a-bf9f-3870d76bf82b",
+      "sourceText": [
+        "πληρώματος"
+      ],
+      "targetText": [
+        "परिपूर्णता"
+      ],
+      "sourceIds": [
+        "sources:43001016004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "08a903f1-d17e-4dd5-9ad8-b3ee2c4f1018",
+      "sourceText": [
+        "ᾔδειν"
+      ],
+      "targetText": [
+        "पहचानता"
+      ],
+      "sourceIds": [
+        "sources:43001031003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "08bba834-1ccf-46a2-bff3-28437d0e1fce",
+      "sourceText": [
+        "υἱὸν"
+      ],
+      "targetText": [
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43001045019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "09a79d73-1b8a-463c-ad68-33ddd71a1964",
+      "sourceText": [
+        "ὑποδήματος"
+      ],
+      "targetText": [
+        "जूती",
+        "मैं"
+      ],
+      "sourceIds": [
+        "sources:43001027015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0a9397c8-6f77-4add-93ce-5abb511d28df",
+      "sourceText": [
+        "βοῶντος"
+      ],
+      "targetText": [
+        "पुकारनेवाले"
+      ],
+      "sourceIds": [
+        "sources:43001023004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0ae400cb-664f-4742-90aa-a2f3bde5b68f",
+      "sourceText": [
+        "πάλιν"
+      ],
+      "targetText": [
+        "फिर"
+      ],
+      "sourceIds": [
+        "sources:43001035003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0b238709-9872-4e19-b57d-a3db9ae50d3c",
+      "sourceText": [
+        "ἐβαπτίζοντο"
+      ],
+      "targetText": [
+        "बपतिस्मा",
+        "लेते",
+        "थे"
+      ],
+      "sourceIds": [
+        "sources:43003023020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0b39cc86-31e1-49bf-b4bd-6eadbb20f212",
+      "sourceText": [
+        "ἠσαΐας"
+      ],
+      "targetText": [
+        "यशायाह"
+      ],
+      "sourceIds": [
+        "sources:43001023014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0b7323e5-952f-4933-8ca4-e4e2f0ee6b7f",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0b7ec4cf-4095-4058-80d0-2677a954cfa3",
+      "sourceText": [
+        "τις"
+      ],
+      "targetText": [
+        "कोई"
+      ],
+      "sourceIds": [
+        "sources:43002025007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0c17ed4e-f42f-4cb7-a111-f024f84f1f4d",
+      "sourceText": [
+        "εἰμί"
+      ],
+      "targetText": [
+        "मैं"
+      ],
+      "sourceIds": [
+        "sources:43001021012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0cd9f9a0-4c4a-49e5-adf7-04444d0bf165",
+      "sourceText": [
+        "ἰουδαῖοι"
+      ],
+      "targetText": [
+        "यहूदियों"
+      ],
+      "sourceIds": [
+        "sources:43001019011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0d2ab878-7789-4c01-81c5-61b5b0bdf662",
+      "sourceText": [
+        "μένον"
+      ],
+      "targetText": [
+        "ठहरते"
+      ],
+      "sourceIds": [
+        "sources:43001033023"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0d53f72a-507d-4bc4-9995-588696578c45",
+      "sourceText": [
+        "ἰωάννου"
+      ],
+      "targetText": [
+        "यूहन्ना",
+        "की"
+      ],
+      "sourceIds": [
+        "sources:43001019007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0da9b236-57d0-420b-a18b-917cddb7622a",
+      "sourceText": [
+        "μένει"
+      ],
+      "targetText": [
+        "रहता"
+      ],
+      "sourceIds": [
+        "sources:43001039011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0ddd8fe5-9105-4c38-b1e4-94dd83f95650",
+      "sourceText": [
+        "τρισὶν",
+        "ἡμέραις"
+      ],
+      "targetText": [
+        "तीन",
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43002019012",
+        "sources:43002019013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0e6ed4e3-e0d8-4ca4-a85e-6df711300542",
+      "sourceText": [
+        "μαθητῶν"
+      ],
+      "targetText": [
+        "चेलों"
+      ],
+      "sourceIds": [
+        "sources:43001035010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0ebdf3a8-92d1-499b-8b0f-1afb05a7d8be",
+      "sourceText": [
+        "κέκραγεν"
+      ],
+      "targetText": [
+        "पुकारकर"
+      ],
+      "sourceIds": [
+        "sources:43001015006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "0f43d734-5ba6-4d18-a5c0-aa6e793fed0a",
+      "sourceText": [
+        "εὑρήκαμεν"
+      ],
+      "targetText": [
+        "हमको",
+        "मिल"
+      ],
+      "sourceIds": [
+        "sources:43001045017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "10e9d671-3147-4ce4-9c22-27f71fd964fc",
+      "sourceText": [
+        "δεκάτη"
+      ],
+      "targetText": [
+        "दसवें"
+      ],
+      "sourceIds": [
+        "sources:43001039022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "10f937f6-75bb-4cc9-bbcd-694fa17ae1ac",
+      "sourceText": [
+        "ἡμέρας"
+      ],
+      "targetText": [
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43002012023"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "11d3f573-2f45-4bbd-91c0-a71760d53a42",
+      "sourceText": [
+        "ἀκολούθει",
+        "μοι"
+      ],
+      "targetText": [
+        "मेरे",
+        "पीछे",
+        "हो",
+        "ले"
+      ],
+      "sourceIds": [
+        "sources:43001043016",
+        "sources:40007021005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "122ac436-b263-4d1b-8bcf-6a72a6024c2c",
+      "sourceText": [
+        "μονογενοῦς"
+      ],
+      "targetText": [
+        "एकलौते"
+      ],
+      "sourceIds": [
+        "sources:43001014017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "12d774c3-e200-4da9-a53a-3d1d477dfa0f",
+      "sourceText": [
+        "ὅσοι"
+      ],
+      "targetText": [
+        "जितनों"
+      ],
+      "sourceIds": [
+        "sources:43001012001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "13b8aef8-4434-47f4-8c17-559307356ed4",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "14a977b0-bb2e-42aa-8641-aa746bc0f06d",
+      "sourceText": [
+        "τετήρηκας"
+      ],
+      "targetText": [
+        "रख",
+        "छोड़ा",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43002010017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "14b97131-b8d2-4216-a3e3-46fdfb112457",
+      "sourceText": [
+        "οἶνον",
+        "οὐκ",
+        "ἔχουσιν"
+      ],
+      "targetText": [
+        "उनके",
+        "पास",
+        "दाखरस",
+        "नहीं",
+        "रहा"
+      ],
+      "sourceIds": [
+        "sources:43002009008",
+        "sources:40005017011",
+        "sources:43002003013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "14e96643-eeb8-4f89-aa47-55a76201496b",
+      "sourceText": [
+        "ἰσραηλίτης"
+      ],
+      "targetText": [
+        "इस्राएली"
+      ],
+      "sourceIds": [
+        "sources:43001047015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "150b8b1c-bbd3-4b90-b4bb-dead4e1225e0",
+      "sourceText": [
+        "ἐκεῖνος"
+      ],
+      "targetText": [
+        "उसने"
+      ],
+      "sourceIds": [
+        "sources:43001008003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1531c8d8-d8cb-4aff-b845-3024fdd68dbb",
+      "sourceText": [
+        "οὐδεὶς"
+      ],
+      "targetText": [
+        "किसी",
+        "ने"
+      ],
+      "sourceIds": [
+        "sources:43001018002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "15832a7c-d9ea-47d2-aa37-2c93fa5690de",
+      "sourceText": [
+        "κόλπον"
+      ],
+      "targetText": [
+        "गोद"
+      ],
+      "sourceIds": [
+        "sources:43001018011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "15a9ae35-81a7-4e6c-bfe2-90192e43dd5b",
+      "sourceText": [
+        "ναζαρέτ"
+      ],
+      "targetText": [
+        "नासरी"
+      ],
+      "sourceIds": [
+        "sources:43001045024"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "15aec27c-a4f9-4dec-b70f-8a449d8ebc15",
+      "sourceText": [
+        "ἐπίστευσαν"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43002011018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "16ef6b05-e130-4996-ae16-66689357448e",
+      "sourceText": [
+        "κόσμος"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001010007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "17290cef-4673-47c8-98e9-d24f86296dcc",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर",
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1747ae37-e16d-4e2f-812c-6deb2de5575d",
+      "sourceText": [
+        "σαρκὸς"
+      ],
+      "targetText": [
+        "शरीर"
+      ],
+      "sourceIds": [
+        "sources:43001013008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "17cf0308-1263-477c-8eeb-8a2c25600577",
+      "sourceText": [
+        "ἐγεννήθησαν"
+      ],
+      "targetText": [
+        "उत्पन्न"
+      ],
+      "sourceIds": [
+        "sources:43001013016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "180fc8aa-cde1-4a38-9c30-4bab20907a84",
+      "sourceText": [
+        "ἰησοῦν"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001029005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "18a73aea-fe2f-4682-b3e6-7ee68b390b92",
+      "sourceText": [
+        "βαπτίζων"
+      ],
+      "targetText": [
+        "बपतिस्मा",
+        "देनेवाला"
+      ],
+      "sourceIds": [
+        "sources:43001028012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "18cd4dd4-fc06-49d9-8c07-cf91904bb727",
+      "sourceText": [
+        "ἐμνήσθησαν"
+      ],
+      "targetText": [
+        "स्मरण",
+        "आया"
+      ],
+      "sourceIds": [
+        "sources:43002017001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "191d2979-38a7-4771-98bc-f8db3cc3549d",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "19e058b0-d4e5-4d2d-a03f-5cd4b972735f",
+      "sourceText": [
+        "ἰουδαίου"
+      ],
+      "targetText": [
+        "किसी",
+        "यहूदी"
+      ],
+      "sourceIds": [
+        "sources:43003025009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1a03b0bb-5944-44f7-a217-4783fa0c5285",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1a4dce84-971d-4bbd-a315-b989bc37336d",
+      "sourceText": [
+        "πιστεύουσιν"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43001012012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1a83a979-f8c2-46e8-98ce-9cc8e7ae9daa",
+      "sourceText": [
+        "ἀγγέλους"
+      ],
+      "targetText": [
+        "स्वर्गदूतों"
+      ],
+      "sourceIds": [
+        "sources:43001051014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1b294b82-6b61-4dd6-b318-48d6d7c16409",
+      "sourceText": [
+        "γάμον"
+      ],
+      "targetText": [
+        "विवाह"
+      ],
+      "sourceIds": [
+        "sources:43002002012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1b45a6e1-7b89-4161-b186-c52089579dd1",
+      "sourceText": [
+        "διδάσκαλος"
+      ],
+      "targetText": [
+        "गुरु"
+      ],
+      "sourceIds": [
+        "sources:43003002015"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "1b54afe4-9fa2-4b72-993a-b24a7cf5dbc3",
+      "sourceText": [
+        "ὄνομα"
+      ],
+      "targetText": [
+        "नाम"
+      ],
+      "sourceIds": [
+        "sources:43001006006"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "1c6784eb-88cc-46f6-929d-47c9d98a3e4b",
+      "sourceText": [
+        "σκοτίᾳ"
+      ],
+      "targetText": [
+        "अंधकार"
+      ],
+      "sourceIds": [
+        "sources:43001005006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1c9328e7-4fee-49ad-91f6-d996c7328801",
+      "sourceText": [
+        "πάσχα"
+      ],
+      "targetText": [
+        "फसह",
+        "का",
+        "पर्व"
+      ],
+      "sourceIds": [
+        "sources:43002013005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1c948ad4-56fe-4d3f-a8c0-b3440445f1e0",
+      "sourceText": [
+        "κηφᾶς"
+      ],
+      "targetText": [
+        "कैफा"
+      ],
+      "sourceIds": [
+        "sources:43001042019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1d24a92e-527e-40e1-870f-2b4f1baa16c3",
+      "sourceText": [
+        "νικόδημος"
+      ],
+      "targetText": [
+        "नीकुदेमुस"
+      ],
+      "sourceIds": [
+        "sources:43003001007"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "1d382568-ff97-4b51-85c8-adfd5f2252a8",
+      "sourceText": [
+        "τεθέαμαι"
+      ],
+      "targetText": [
+        "मैंने",
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001032006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1d94a08e-b45a-4e2f-868f-4108da069549",
+      "sourceText": [
+        "ἀκολουθοῦντας"
+      ],
+      "targetText": [
+        "पीछे",
+        "आते"
+      ],
+      "sourceIds": [
+        "sources:43001038008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1e643358-af75-47a0-9303-d936efb24d77",
+      "sourceText": [
+        "αἰνὼν"
+      ],
+      "targetText": [
+        "ऐनोन"
+      ],
+      "sourceIds": [
+        "sources:43003023008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1eb054da-b729-4762-8e5d-4b00584028ea",
+      "sourceText": [
+        "ἱεροσολύμοις"
+      ],
+      "targetText": [
+        "यरूशलेम",
+        "में"
+      ],
+      "sourceIds": [
+        "sources:43002023006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1f43ed9b-3ab5-4931-9239-6710ea60302e",
+      "sourceText": [
+        "ἴδιον"
+      ],
+      "targetText": [
+        "सगे"
+      ],
+      "sourceIds": [
+        "sources:43001041007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1f44b21f-0e65-43be-a3c5-d4008f9ab6b6",
+      "sourceText": [
+        "καθαρισμὸν"
+      ],
+      "targetText": [
+        "शुद्धिकरण"
+      ],
+      "sourceIds": [
+        "sources:43002006009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "1fe3a1a6-8a33-44ed-9719-9c4021ee152a",
+      "sourceText": [
+        "παρέλαβον"
+      ],
+      "targetText": [
+        "ग्रहण"
+      ],
+      "sourceIds": [
+        "sources:43001011010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2001f90c-7d80-47f9-8b8b-09f4cf4eed2a",
+      "sourceText": [
+        "μετὰ",
+        "τοῦτο"
+      ],
+      "targetText": [
+        "इसके",
+        "बाद"
+      ],
+      "sourceIds": [
+        "sources:43003025008",
+        "sources:40006025002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2008198c-2aa6-41df-ae62-6492af92c8e1",
+      "sourceText": [
+        "ἐξελθεῖν"
+      ],
+      "targetText": [
+        "जाना"
+      ],
+      "sourceIds": [
+        "sources:43001043004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "20daa260-121a-40d5-a183-557c6e194d66",
+      "sourceText": [
+        "ἠγέρθη"
+      ],
+      "targetText": [
+        "जी",
+        "उठा"
+      ],
+      "sourceIds": [
+        "sources:43002022003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "215ae46e-bc6b-4351-a667-1ee127368acc",
+      "sourceText": [
+        "ἐξέβαλεν"
+      ],
+      "targetText": [
+        "निकाल",
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43002015007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "22ca1654-a946-4b02-974f-20137771fb5c",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "22cc40c1-3f65-4eff-a6a5-1cd37eaefc10",
+      "sourceText": [
+        "ἰησοῦ"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001017013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "241b695c-682d-400c-bf34-9cba6c7d595d",
+      "sourceText": [
+        "δόξαν"
+      ],
+      "targetText": [
+        "महिमा"
+      ],
+      "sourceIds": [
+        "sources:43001014013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "246ff50b-4378-40de-a984-a7208af0b5df",
+      "sourceText": [
+        "βλέπει"
+      ],
+      "targetText": [
+        "देखकर"
+      ],
+      "sourceIds": [
+        "sources:43001029003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "24d86146-1b2c-4ebf-866c-e8f5363caba8",
+      "sourceText": [
+        "πάσχα"
+      ],
+      "targetText": [
+        "फसह"
+      ],
+      "sourceIds": [
+        "sources:43002013005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "253764f9-796f-48a4-9325-6214a386050e",
+      "sourceText": [
+        "υἱὸν"
+      ],
+      "targetText": [
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43001045019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2557e728-1d21-4333-bff7-4d2a1b205af9",
+      "sourceText": [
+        "νικόδημος"
+      ],
+      "targetText": [
+        "नीकुदेमुस"
+      ],
+      "sourceIds": [
+        "sources:43003001007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "256066ca-bac9-4c1d-8e2f-73dddd088e0e",
+      "sourceText": [
+        "χάριν"
+      ],
+      "targetText": [
+        "अनुग्रह"
+      ],
+      "sourceIds": [
+        "sources:43001016010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "25f74726-78c8-46d1-ab83-81734daa8acd",
+      "sourceText": [
+        "ἐπαύριον"
+      ],
+      "targetText": [
+        "दूसरे",
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43001029002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "261657f0-5961-40fa-8cb2-7a48c32d02c8",
+      "sourceText": [
+        "ὑδρίας"
+      ],
+      "targetText": [
+        "मटकों"
+      ],
+      "sourceIds": [
+        "sources:43002007007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "262627ee-3950-43c7-b032-64b2504b4a13",
+      "sourceText": [
+        "ἑώρακεν"
+      ],
+      "targetText": [
+        "उसने",
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001018003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "268c7a4b-d283-4df3-a20d-00b3547cc96d",
+      "sourceText": [
+        "ἀπέστειλεν"
+      ],
+      "targetText": [
+        "भेजा"
+      ],
+      "sourceIds": [
+        "sources:43003017003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "270c6fbd-859f-41ad-bc4c-fef2b0433a46",
+      "sourceText": [
+        "μεμαρτύρηκα"
+      ],
+      "targetText": [
+        "गवाही",
+        "दी",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001034004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "27eaa8f1-d73b-4e8b-b6ab-cb8445f3171b",
+      "sourceText": [
+        "αἱμάτων"
+      ],
+      "targetText": [
+        "लहू"
+      ],
+      "sourceIds": [
+        "sources:43001013004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2840e944-7721-4cb4-a05b-e72a493c2ae6",
+      "sourceText": [
+        "ἴδε"
+      ],
+      "targetText": [
+        "देखो"
+      ],
+      "sourceIds": [
+        "sources:43001046017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "28c13d3f-72f9-4ed9-a402-169d2f5db1ca",
+      "sourceText": [
+        "ἐπίστευσαν"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43002011018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "28e832f3-3ef4-400c-b18c-e9a087751d11",
+      "sourceText": [
+        "γραφῇ"
+      ],
+      "targetText": [
+        "पवित्रशास्त्र"
+      ],
+      "sourceIds": [
+        "sources:43002022016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "29200d0e-bf15-4e9a-a0e3-c0f131278eb2",
+      "sourceText": [
+        "σίμωνος"
+      ],
+      "targetText": [
+        "शमौन"
+      ],
+      "sourceIds": [
+        "sources:43001040005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2a43fc11-c000-43af-bd7f-f3b1b7668726",
+      "sourceText": [
+        "μεμαρτύρηκας"
+      ],
+      "targetText": [
+        "जिसकी",
+        "तूने",
+        "गवाही",
+        "दी",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003026019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2a8d209f-ead0-4779-9755-dd735b53518e",
+      "sourceText": [
+        "διέτριβεν",
+        "μετ",
+        "αὐτῶν"
+      ],
+      "targetText": [
+        "उनके",
+        "साथ",
+        "रहकर"
+      ],
+      "sourceIds": [
+        "sources:43003022016",
+        "sources:40005025010",
+        "sources:40005003007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2ae7e544-cfbe-4a9d-901f-14acc63e9979",
+      "sourceText": [
+        "υἱὸν",
+        "ἰωσὴφ"
+      ],
+      "targetText": [
+        "यूसुफ",
+        "का",
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43001045019",
+        "sources:43001045021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2bc3e5e5-2f63-4eeb-a7b3-db6ecaf6aab8",
+      "sourceText": [
+        "μαρτυρίαν"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001007004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2be3be17-b035-4a7d-942c-a07c690c768b",
+      "sourceText": [
+        "οἶκον",
+        "ἐμπορίου"
+      ],
+      "targetText": [
+        "व्यापार",
+        "का",
+        "घर"
+      ],
+      "sourceIds": [
+        "sources:43002016013",
+        "sources:43002016018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2be9fd9c-000c-4a84-94b1-4866da69208e",
+      "sourceText": [
+        "φωνὴν",
+        "αὐτοῦ",
+        "ἀκούεις"
+      ],
+      "targetText": [
+        "तू",
+        "उसकी",
+        "आवाज",
+        "सुनता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003008008",
+        "sources:40005001011",
+        "sources:43003008010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2bf2aab2-30d3-4ee6-b4d9-68304c2afc13",
+      "sourceText": [
+        "ἐξέχεεν"
+      ],
+      "targetText": [
+        "बिखेर",
+        "दिये"
+      ],
+      "sourceIds": [
+        "sources:43002015020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2cf594ec-f0a7-437a-bf5b-b82590514569",
+      "sourceText": [
+        "τρίτῃ"
+      ],
+      "targetText": [
+        "तीसरे"
+      ],
+      "sourceIds": [
+        "sources:43002001005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2d015347-de99-4855-b232-f24762fc96a5",
+      "sourceText": [
+        "ῥαββί"
+      ],
+      "targetText": [
+        "रब्बी"
+      ],
+      "sourceIds": [
+        "sources:43001038017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2d202ded-6d6f-4dca-bced-3284cd841395",
+      "sourceText": [
+        "κόσμον"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2dcdff34-c38e-4f65-b1bb-10075b3b43fa",
+      "sourceText": [
+        "ὕδατι"
+      ],
+      "targetText": [
+        "जल"
+      ],
+      "sourceIds": [
+        "sources:43001026009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2e28c481-4796-4c89-aeff-b6508d509376",
+      "sourceText": [
+        "βαπτίζων"
+      ],
+      "targetText": [
+        "बपतिस्मा"
+      ],
+      "sourceIds": [
+        "sources:43001028012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2e49bb04-5c57-48c2-a57f-b4316d70ab8b",
+      "sourceText": [
+        "ἐλάβομεν"
+      ],
+      "targetText": [
+        "प्राप्त"
+      ],
+      "sourceIds": [
+        "sources:43001016008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2ec25c13-81fd-42dd-a7ca-46172b12ec3c",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2f215566-a4ea-4238-930c-2ee6b1d3827a",
+      "sourceText": [
+        "δεῖ"
+      ],
+      "targetText": [
+        "अवश्य"
+      ],
+      "sourceIds": [
+        "sources:43003014012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2f36a674-bcd9-4c7d-a123-8e3ac5a7a40a",
+      "sourceText": [
+        "ἐποίει"
+      ],
+      "targetText": [
+        "दिखाता"
+      ],
+      "sourceIds": [
+        "sources:43002023024"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2fa9ac1a-b8f1-4f54-921c-21b304616bd0",
+      "sourceText": [
+        "ἱερεῖς"
+      ],
+      "targetText": [
+        "याजकों"
+      ],
+      "sourceIds": [
+        "sources:43001019014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2fc529aa-a976-41b7-8bbd-5f859d29f1d5",
+      "sourceText": [
+        "γαλιλαίαν"
+      ],
+      "targetText": [
+        "गलील"
+      ],
+      "sourceIds": [
+        "sources:43001043007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2fcbdac7-ca6a-47b4-8ef5-6b92830241f4",
+      "sourceText": [
+        "πνεῦμα"
+      ],
+      "targetText": [
+        "आत्मा"
+      ],
+      "sourceIds": [
+        "sources:43001032008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "2fed838b-2cce-48a2-9694-fbef75fface1",
+      "sourceText": [
+        "ἀνδρὸς"
+      ],
+      "targetText": [
+        "मनुष्य"
+      ],
+      "sourceIds": [
+        "sources:43001013012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "31239c69-42a0-49d4-b682-4cb60a5c5419",
+      "sourceText": [
+        "πωλοῦσιν"
+      ],
+      "targetText": [
+        "बेचनेवालों"
+      ],
+      "sourceIds": [
+        "sources:43002016005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "32453104-d79d-4db6-bd25-e250e1cf7c8c",
+      "sourceText": [
+        "βαπτίζεις"
+      ],
+      "targetText": [
+        "बपतिस्मा"
+      ],
+      "sourceIds": [
+        "sources:43001025009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "341df185-98e9-4cdc-be04-e0de72e46efa",
+      "sourceText": [
+        "σίμωνα"
+      ],
+      "targetText": [
+        "शमौन"
+      ],
+      "sourceIds": [
+        "sources:43001041008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3451ef0f-f297-482c-b517-58c10789e0da",
+      "sourceText": [
+        "οἴνου"
+      ],
+      "targetText": [
+        "दाखरस"
+      ],
+      "sourceIds": [
+        "sources:43002003003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "345de893-e992-4146-8fec-7a906f825040",
+      "sourceText": [
+        "μεθερμηνευόμενον"
+      ],
+      "targetText": [
+        "अर्थात्"
+      ],
+      "sourceIds": [
+        "sources:43001038020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "349f9837-8063-41b7-81af-0932313ae662",
+      "sourceText": [
+        "ἔγνω"
+      ],
+      "targetText": [
+        "पहचाना"
+      ],
+      "sourceIds": [
+        "sources:43001010016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "35d98fc0-5592-4b16-9ecd-9645d17bbfa8",
+      "sourceText": [
+        "χωροῦσαι"
+      ],
+      "targetText": [
+        "समाता"
+      ],
+      "sourceIds": [
+        "sources:43002006013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "36055b1e-14c9-4e66-9a2b-91ded943c0e0",
+      "sourceText": [
+        "ὕδατα"
+      ],
+      "targetText": [
+        "जल"
+      ],
+      "sourceIds": [
+        "sources:43003023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "36623780-efb7-46b1-b08c-efeb8658b94e",
+      "sourceText": [
+        "ζωὴ"
+      ],
+      "targetText": [
+        "जीवन"
+      ],
+      "sourceIds": [
+        "sources:43001004003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "36c92499-ea31-4863-85ba-5725a8c6a0f0",
+      "sourceText": [
+        "ἑστηκὼς"
+      ],
+      "targetText": [
+        "खड़ा"
+      ],
+      "sourceIds": [
+        "sources:43003029013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "370d9835-745a-4c99-bfe2-2e6d497449a1",
+      "sourceText": [
+        "ἔμειναν"
+      ],
+      "targetText": [
+        "रहे"
+      ],
+      "sourceIds": [
+        "sources:43001039015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3724ec6b-fcb7-4642-b5d3-468483c12034",
+      "sourceText": [
+        "ἰωάννην"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43003026005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "37960920-b8ef-4809-bed9-6182d77081ed",
+      "sourceText": [
+        "ἴδῃς"
+      ],
+      "targetText": [
+        "तू",
+        "देखे"
+      ],
+      "sourceIds": [
+        "sources:43001033018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "379d3127-2039-4224-b00b-9a75e917834a",
+      "sourceText": [
+        "εἶπαν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001022001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "38312455-151e-484e-b5b3-4f4a463b243e",
+      "sourceText": [
+        "ἠρνήσατο"
+      ],
+      "targetText": [
+        "इन्कार"
+      ],
+      "sourceIds": [
+        "sources:43001020005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "385adde3-361c-48af-b9b9-9b910b1e5860",
+      "sourceText": [
+        "ῥήματα"
+      ],
+      "targetText": [
+        "बातें"
+      ],
+      "sourceIds": [
+        "sources:43003034007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "38605b17-00e3-4087-8e45-912c9fa5810b",
+      "sourceText": [
+        "φαῦλα",
+        "πράσσων"
+      ],
+      "targetText": [
+        "बुराई",
+        "करता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003020004",
+        "sources:43003020005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "389cd405-5436-4e73-8ae2-a53b3950e303",
+      "sourceText": [
+        "ἔμεινεν"
+      ],
+      "targetText": [
+        "ठहर"
+      ],
+      "sourceIds": [
+        "sources:43001032015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "38a56a08-40e4-4f62-8f12-9d62c7cbc495",
+      "sourceText": [
+        "ὑδρίαι"
+      ],
+      "targetText": [
+        "मटके"
+      ],
+      "sourceIds": [
+        "sources:43002006005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "38e171fe-ffaf-4923-88b7-16dea5c042b2",
+      "sourceText": [
+        "ἔρχεται"
+      ],
+      "targetText": [
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001030009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "39b96ba0-e841-451c-bd92-13c5292a34d9",
+      "sourceText": [
+        "δεῖ"
+      ],
+      "targetText": [
+        "अवश्य",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003014012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3a5ce586-25b0-454d-a15f-5c6faf42dd8b",
+      "sourceText": [
+        "πόθεν",
+        "ἔρχεται"
+      ],
+      "targetText": [
+        "वह",
+        "कहाँ",
+        "से",
+        "आती"
+      ],
+      "sourceIds": [
+        "sources:43002009013",
+        "sources:43001030009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3a5e6ba6-ff90-4ef5-8d80-58ce01bf10e8",
+      "sourceText": [
+        "προφήτης"
+      ],
+      "targetText": [
+        "भविष्यद्वक्ता"
+      ],
+      "sourceIds": [
+        "sources:43001021014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3a935431-aaa2-4c81-b33a-8e896b7bd2e3",
+      "sourceText": [
+        "συκῆν"
+      ],
+      "targetText": [
+        "अंजीर"
+      ],
+      "sourceIds": [
+        "sources:43001048020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3ac2a070-e637-433c-817c-e10ba2603a8f",
+      "sourceText": [
+        "εἶπον"
+      ],
+      "targetText": [
+        "मैंने",
+        "वर्णन",
+        "किया"
+      ],
+      "sourceIds": [
+        "sources:43001015011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3b03c762-1053-4a30-a129-a4c11b5cb659",
+      "sourceText": [
+        "ἀδελφοὶ"
+      ],
+      "targetText": [
+        "भाई"
+      ],
+      "sourceIds": [
+        "sources:43002012013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3b0b66e2-91fc-4943-841b-bfecbe4c0f0d",
+      "sourceText": [
+        "ὁδὸν"
+      ],
+      "targetText": [
+        "मार्ग"
+      ],
+      "sourceIds": [
+        "sources:43001023010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3b8742fd-88dc-481d-b32e-653086d25692",
+      "sourceText": [
+        "φαίνει"
+      ],
+      "targetText": [
+        "चमकती",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001005007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3bd18b58-674e-44ab-9fa0-238e277d13cc",
+      "sourceText": [
+        "βαπτίζων"
+      ],
+      "targetText": [
+        "बपतिस्मा"
+      ],
+      "sourceIds": [
+        "sources:43001028012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3c6746fa-83c6-4199-bc9a-13ffecfbf3fb",
+      "sourceText": [
+        "γεννηθῆναι"
+      ],
+      "targetText": [
+        "जन्म",
+        "लेना"
+      ],
+      "sourceIds": [
+        "sources:43003004009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3c6fbd59-afcc-4f94-9d36-a832a3c5509f",
+      "sourceText": [
+        "αὐτὸς"
+      ],
+      "targetText": [
+        "वह"
+      ],
+      "sourceIds": [
+        "sources:43002012006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3c738048-3877-43c3-80b0-8db18a896932",
+      "sourceText": [
+        "υἱοῦ"
+      ],
+      "targetText": [
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43003018021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3d02f148-4d99-49e1-941a-2b9bbc0dd844",
+      "sourceText": [
+        "ἔρχεται"
+      ],
+      "targetText": [
+        "आता"
+      ],
+      "sourceIds": [
+        "sources:43001030009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3d4c850a-9f1c-4f82-beab-9efe5b6f849f",
+      "sourceText": [
+        "ἤκουσεν"
+      ],
+      "targetText": [
+        "सुना",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003032004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3d576cb5-a8aa-493e-b866-b444a40a43e2",
+      "sourceText": [
+        "ἰουδαίων"
+      ],
+      "targetText": [
+        "यहूदियों"
+      ],
+      "sourceIds": [
+        "sources:43002006011"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "3d83ada8-2dae-4885-86bf-adedc356c68a",
+      "sourceText": [
+        "πάλιν",
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "फिर",
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001035003",
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3dcb0dc2-8e88-4cd6-ae88-35f6ce6b3ef9",
+      "sourceText": [
+        "περιπατοῦντι"
+      ],
+      "targetText": [
+        "जा",
+        "रहा",
+        "था"
+      ],
+      "sourceIds": [
+        "sources:43001036005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3e574f55-8aa8-4c4b-8abe-443a7a60ba8b",
+      "sourceText": [
+        "ἐδόθη"
+      ],
+      "targetText": [
+        "दी",
+        "गई"
+      ],
+      "sourceIds": [
+        "sources:43001017006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3e83808f-32a1-426d-8734-15bb97375ff0",
+      "sourceText": [
+        "ἐμνήσθησαν"
+      ],
+      "targetText": [
+        "स्मरण",
+        "आया"
+      ],
+      "sourceIds": [
+        "sources:43002017001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3ea96cde-825e-49a3-bd86-d58611033a1f",
+      "sourceText": [
+        "εἰργασμένα"
+      ],
+      "targetText": [
+        "किए",
+        "गए"
+      ],
+      "sourceIds": [
+        "sources:43003021019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3f946793-f2f5-4cd1-a44f-6f51292bb537",
+      "sourceText": [
+        "οἰκοδομήθη"
+      ],
+      "targetText": [
+        "बनाने"
+      ],
+      "sourceIds": [
+        "sources:43002020009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "3f977fb9-1a95-4d9e-8593-275bea0264ca",
+      "sourceText": [
+        "νῦν"
+      ],
+      "targetText": [
+        "अब"
+      ],
+      "sourceIds": [
+        "sources:43002008005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4020174b-eeef-4c65-a2c9-0bb9944e96f7",
+      "sourceText": [
+        "ἀρχιτρίκλινος"
+      ],
+      "targetText": [
+        "भोज",
+        "के",
+        "प्रधान"
+      ],
+      "sourceIds": [
+        "sources:43002009005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "40221dfd-f5c4-4733-a90a-647f4fc48188",
+      "sourceText": [
+        "χριστός"
+      ],
+      "targetText": [
+        "मसीह"
+      ],
+      "sourceIds": [
+        "sources:43001020013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "40bd070d-eb06-4086-8bc6-9f18a1cb1586",
+      "sourceText": [
+        "εἶπαν",
+        "αὐτῷ"
+      ],
+      "targetText": [
+        "उन्होंने",
+        "उससे",
+        "पूछा"
+      ],
+      "sourceIds": [
+        "sources:43001022001",
+        "sources:40005001013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "412a6c86-7688-4160-9abf-3d9e0be09caf",
+      "sourceText": [
+        "οὐδεὶς",
+        "λαμβάνει"
+      ],
+      "targetText": [
+        "कोई",
+        "ग्रहण",
+        "नहीं",
+        "करता"
+      ],
+      "sourceIds": [
+        "sources:43001018002",
+        "sources:40007008005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4171f241-9907-45e3-86ee-9d9cae62b49e",
+      "sourceText": [
+        "ἰορδάνου"
+      ],
+      "targetText": [
+        "यरदन"
+      ],
+      "sourceIds": [
+        "sources:43001028007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "41c8db45-51d7-48eb-901c-915b69355f6f",
+      "sourceText": [
+        "ἀληθῶς"
+      ],
+      "targetText": [
+        "सचमुच"
+      ],
+      "sourceIds": [
+        "sources:43001047014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "41ebb0c3-07d2-41e8-97c7-de0ccce106e9",
+      "sourceText": [
+        "ἐσκήνωσεν"
+      ],
+      "targetText": [
+        "डेरा",
+        "किया"
+      ],
+      "sourceIds": [
+        "sources:43001014007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "421a4c9b-e53e-4b9c-b6b0-0295644addf2",
+      "sourceText": [
+        "ὢν"
+      ],
+      "targetText": [
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001018008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "42323aa4-9fa0-43c2-9d6d-a720fff554e8",
+      "sourceText": [
+        "ἐρχόμενος"
+      ],
+      "targetText": [
+        "आ",
+        "रहा",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001015015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "42a04e1b-5f37-4c53-8707-982fa8135aed",
+      "sourceText": [
+        "φίλιππος"
+      ],
+      "targetText": [
+        "फिलिप्पुस"
+      ],
+      "sourceIds": [
+        "sources:43001044004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "42b4c705-c29f-406c-8a1a-ec2551175b89",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "42d25f81-3e8c-414a-bafd-d66c5ba5fd8f",
+      "sourceText": [
+        "ζωὴν"
+      ],
+      "targetText": [
+        "जीवन"
+      ],
+      "sourceIds": [
+        "sources:43003015008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "42dcbc24-68d2-4689-b99c-b99a2f26ac16",
+      "sourceText": [
+        "ἓξ"
+      ],
+      "targetText": [
+        "छः"
+      ],
+      "sourceIds": [
+        "sources:43002006006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "43225084-5497-4d30-95c9-dbb084846ab8",
+      "sourceText": [
+        "ἐλάσσω"
+      ],
+      "targetText": [
+        "मध्यम"
+      ],
+      "sourceIds": [
+        "sources:43002010015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "436b54ee-324c-402f-a481-ce984935ecfc",
+      "sourceText": [
+        "οἶκον"
+      ],
+      "targetText": [
+        "भवन"
+      ],
+      "sourceIds": [
+        "sources:43002016013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "43c7cc9a-95f3-46a2-b105-c4ab4c8ca599",
+      "sourceText": [
+        "πιστεύσωσιν"
+      ],
+      "targetText": [
+        "विश्वास",
+        "लाएँ"
+      ],
+      "sourceIds": [
+        "sources:43001007012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "45024198-985b-4bf6-9749-3146377ecf21",
+      "sourceText": [
+        "ἤνεγκαν"
+      ],
+      "targetText": [
+        "ले",
+        "गए"
+      ],
+      "sourceIds": [
+        "sources:43002008012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "459397e2-ccb9-40e5-bd31-a6992f1a68a5",
+      "sourceText": [
+        "ἀμνὸς"
+      ],
+      "targetText": [
+        "मेम्ना"
+      ],
+      "sourceIds": [
+        "sources:43001029013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "45c7e22a-3e4e-4e34-9815-e545a4ac1ea9",
+      "sourceText": [
+        "καταβαῖνον"
+      ],
+      "targetText": [
+        "उतरते"
+      ],
+      "sourceIds": [
+        "sources:43001032009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "45faa2fb-cdb8-46a5-b8d1-872428e35809",
+      "sourceText": [
+        "ὅ"
+      ],
+      "targetText": [
+        "जो",
+        "कुछ"
+      ],
+      "sourceIds": [
+        "sources:43001041015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "46116adf-a3ae-4b50-a387-6326871945d8",
+      "sourceText": [
+        "δῶμεν"
+      ],
+      "targetText": [
+        "दें"
+      ],
+      "sourceIds": [
+        "sources:43001022008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4615b0ba-ec78-4cde-8a46-ae71ee89cd32",
+      "sourceText": [
+        "ταύτην"
+      ],
+      "targetText": [
+        "यह"
+      ],
+      "sourceIds": [
+        "sources:43002011001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "47231f7b-f73a-4c8f-abf3-7ebcd03b8727",
+      "sourceText": [
+        "πωλοῦντας"
+      ],
+      "targetText": [
+        "बेचनेवालों"
+      ],
+      "sourceIds": [
+        "sources:43002014007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "478ebb1a-8396-4aa2-aa86-f2df80e64f97",
+      "sourceText": [
+        "ἰουδαίαν"
+      ],
+      "targetText": [
+        "यहूदिया"
+      ],
+      "sourceIds": [
+        "sources:43003022012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "47f6931f-8996-49bb-a083-4f37cf7131dc",
+      "sourceText": [
+        "πάντες"
+      ],
+      "targetText": [
+        "सब"
+      ],
+      "sourceIds": [
+        "sources:43001007011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "48848a81-9f3f-44c1-8b81-22a145372e81",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "49a86529-05be-4bad-bfba-a74e302b9df4",
+      "sourceText": [
+        "λαλεῖ"
+      ],
+      "targetText": [
+        "कहता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003031020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "49bc7e8d-1f0b-403c-8066-14410f500ab7",
+      "sourceText": [
+        "ζωὴ"
+      ],
+      "targetText": [
+        "जीवन"
+      ],
+      "sourceIds": [
+        "sources:43001004003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4a0fb466-b4c7-417b-a6ef-e3228b6cd508",
+      "sourceText": [
+        "μαρτυρεῖτε"
+      ],
+      "targetText": [
+        "गवाह",
+        "हो"
+      ],
+      "sourceIds": [
+        "sources:43003028004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4a6ba078-b43d-47ee-ace7-5ffb25e45949",
+      "sourceText": [
+        "εἶδεν",
+        "ἐρχόμενον",
+        "πρὸς",
+        "αὐτὸν"
+      ],
+      "targetText": [
+        "अपनी",
+        "ओर",
+        "आते",
+        "देखकर"
+      ],
+      "sourceIds": [
+        "sources:43001047001",
+        "sources:43001009010",
+        "sources:40005028010",
+        "sources:40005015006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4a97e6b1-cd79-43e1-a3bd-82757cac4d20",
+      "sourceText": [
+        "πόθεν"
+      ],
+      "targetText": [
+        "कहाँ",
+        "से"
+      ],
+      "sourceIds": [
+        "sources:43002009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4af1a96f-3c54-42ef-b4d3-8dc71ba3d736",
+      "sourceText": [
+        "βαπτίζω",
+        "ἐν",
+        "ὕδατι"
+      ],
+      "targetText": [
+        "जल",
+        "बपतिस्मा",
+        "देता"
+      ],
+      "sourceIds": [
+        "sources:43001026007",
+        "sources:40005012009",
+        "sources:43001026009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4b0dcbc6-73ca-4bb1-967a-f85091412c10",
+      "sourceText": [
+        "μήτηρ"
+      ],
+      "targetText": [
+        "माता"
+      ],
+      "sourceIds": [
+        "sources:43002001015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4b437cba-bacb-4f2b-ae93-82ddd9013737",
+      "sourceText": [
+        "πέμψασιν"
+      ],
+      "targetText": [
+        "भेजनेवालों"
+      ],
+      "sourceIds": [
+        "sources:43001022010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4c5bd23e-7e7b-4073-927d-8c3b6d54a9b1",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर",
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4c6c3924-e17e-4403-b1d6-6dd98ee6a3ea",
+      "sourceText": [
+        "ἠλίας"
+      ],
+      "targetText": [
+        "एलिय्याह"
+      ],
+      "sourceIds": [
+        "sources:43001021007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4cbd7ed9-484b-448d-9dc5-070bc7eea371",
+      "sourceText": [
+        "εἰσελθεῖν"
+      ],
+      "targetText": [
+        "प्रवेश"
+      ],
+      "sourceIds": [
+        "sources:43003004021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4d32ded6-489d-48d6-a7c8-f515687b49b6",
+      "sourceText": [
+        "ἠρώτησαν",
+        "αὐτὸν"
+      ],
+      "targetText": [
+        "उन्होंने",
+        "उससे",
+        "यह",
+        "प्रश्न",
+        "पूछा"
+      ],
+      "sourceIds": [
+        "sources:43001021002",
+        "sources:40005015006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4ecc069c-437a-447d-bfdc-bbccd94970b3",
+      "sourceText": [
+        "ποιεῖς"
+      ],
+      "targetText": [
+        "दिखा"
+      ],
+      "sourceIds": [
+        "sources:43002018014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4f65f89b-00f2-4834-a0fd-c839e7ad7342",
+      "sourceText": [
+        "ὄνομα"
+      ],
+      "targetText": [
+        "नाम"
+      ],
+      "sourceIds": [
+        "sources:43001006006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4f9aa8b1-f4bf-420f-959f-0669a0b0f55b",
+      "sourceText": [
+        "σημείων"
+      ],
+      "targetText": [
+        "चिन्ह"
+      ],
+      "sourceIds": [
+        "sources:43002011005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4fb7d1a7-450f-48b6-961c-4cdd0cbaf22b",
+      "sourceText": [
+        "νυμφίος"
+      ],
+      "targetText": [
+        "दूल्हा"
+      ],
+      "sourceIds": [
+        "sources:43003029005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "4ff68c10-4ce0-47c3-8b6f-5756590842c8",
+      "sourceText": [
+        "ναὸν"
+      ],
+      "targetText": [
+        "मन्दिर"
+      ],
+      "sourceIds": [
+        "sources:43002019008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5059b823-4a59-47f6-af76-29bcc9d7e271",
+      "sourceText": [
+        "πιστεύων"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43003015004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "507e28d9-5f91-4e28-957e-fb3e724b5081",
+      "sourceText": [
+        "γεμίσατε"
+      ],
+      "targetText": [
+        "भर"
+      ],
+      "sourceIds": [
+        "sources:43002007005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "50a2b13c-27e1-4cdd-97bb-53adf1d9f051",
+      "sourceText": [
+        "ἤγαγεν"
+      ],
+      "targetText": [
+        "पास",
+        "लाया"
+      ],
+      "sourceIds": [
+        "sources:43001042001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "50d52386-c08b-44c6-8a91-20de310d145b",
+      "sourceText": [
+        "ἴδια"
+      ],
+      "targetText": [
+        "अपने"
+      ],
+      "sourceIds": [
+        "sources:43001011003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "51118b53-2a72-4ea2-ba4b-fbcc9222dfec",
+      "sourceText": [
+        "βεβλημένος"
+      ],
+      "targetText": [
+        "डाला",
+        "गया"
+      ],
+      "sourceIds": [
+        "sources:43003024004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5113d35b-bb71-442e-a174-cb5506e04771",
+      "sourceText": [
+        "ἀπεσταλμένος"
+      ],
+      "targetText": [
+        "भेजा",
+        "हुआ"
+      ],
+      "sourceIds": [
+        "sources:43001006003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "514795db-fce6-4477-870a-532885b03f3a",
+      "sourceText": [
+        "λέγει",
+        "αὐτοῖς"
+      ],
+      "targetText": [
+        "उसने",
+        "उनसे",
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010",
+        "sources:40006001014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "51ae172d-ac8d-47bb-9b2d-cf9a5b17fb30",
+      "sourceText": [
+        "κρίνῃ",
+        "κόσμον"
+      ],
+      "targetText": [
+        "जगत",
+        "पर",
+        "दण्ड",
+        "की",
+        "आज्ञा",
+        "दे"
+      ],
+      "sourceIds": [
+        "sources:43003017012",
+        "sources:43001009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "51d36d94-4c95-4c42-99cb-9a8d64dc6e7e",
+      "sourceText": [
+        "θεασάμενος"
+      ],
+      "targetText": [
+        "देखकर"
+      ],
+      "sourceIds": [
+        "sources:43001038006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "51e22066-2653-48e4-9dc6-5eb4bc714dc8",
+      "sourceText": [
+        "πρόβατα"
+      ],
+      "targetText": [
+        "भेड़"
+      ],
+      "sourceIds": [
+        "sources:43002014010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5210470f-bd79-4612-abf3-d4a8e133f976",
+      "sourceText": [
+        "ὄνομα"
+      ],
+      "targetText": [
+        "नाम"
+      ],
+      "sourceIds": [
+        "sources:43001006006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5231b027-3265-452a-a32e-ab5afa09d201",
+      "sourceText": [
+        "ἦλθεν"
+      ],
+      "targetText": [
+        "आया"
+      ],
+      "sourceIds": [
+        "sources:43001007002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "52d900a5-f044-44bc-89b1-b15c2b83b363",
+      "sourceText": [
+        "πιστεύεις"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43001050015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "52e6fd31-179a-42d7-902d-0c0708a5a503",
+      "sourceText": [
+        "σίμων"
+      ],
+      "targetText": [
+        "शमौन"
+      ],
+      "sourceIds": [
+        "sources:43001042013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "531b3b3b-3409-436e-be31-c36cdeefe62f",
+      "sourceText": [
+        "φίλος"
+      ],
+      "targetText": [
+        "मित्र"
+      ],
+      "sourceIds": [
+        "sources:43003029009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "532600ac-cf59-4935-8de7-13c699b47c50",
+      "sourceText": [
+        "εἶδαν"
+      ],
+      "targetText": [
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001039009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "536df7a6-1e3c-440c-89e6-94a5e2c2dd45",
+      "sourceText": [
+        "ἑώρακεν"
+      ],
+      "targetText": [
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001018003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "53eb9790-1fb8-48a0-ba3d-7b537806ecd2",
+      "sourceText": [
+        "σχοινίων"
+      ],
+      "targetText": [
+        "रस्सियों"
+      ],
+      "sourceIds": [
+        "sources:43002015005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "557293b3-37f9-432f-b516-ab5013bcbfd0",
+      "sourceText": [
+        "λόγῳ"
+      ],
+      "targetText": [
+        "वचन"
+      ],
+      "sourceIds": [
+        "sources:43002022019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5573bade-e14b-46aa-9488-48bf171de474",
+      "sourceText": [
+        "γινώσκεις"
+      ],
+      "targetText": [
+        "जानता"
+      ],
+      "sourceIds": [
+        "sources:43001048006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5584c254-3a43-4ab3-b053-a8d85e54bfd3",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "55a6aab3-a2bd-4b46-99e7-495ab0f54a01",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "55b14a61-dfd1-4f8d-8683-d2131d005ce4",
+      "sourceText": [
+        "ἄρτι"
+      ],
+      "targetText": [
+        "अब",
+        "तक"
+      ],
+      "sourceIds": [
+        "sources:43002010022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "55bf9557-9fb9-4767-91f5-07c490c2d54b",
+      "sourceText": [
+        "νυμφίου"
+      ],
+      "targetText": [
+        "दूल्हे"
+      ],
+      "sourceIds": [
+        "sources:43003029011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "56140099-87a9-41b1-9c04-620fd4790f7d",
+      "sourceText": [
+        "κόσμος"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001010007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "566a9273-707b-410d-9079-d16abd8c34c1",
+      "sourceText": [
+        "γενέσθαι"
+      ],
+      "targetText": [
+        "हैं"
+      ],
+      "sourceIds": [
+        "sources:43001012010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "572b87a2-f761-41c5-8e33-557cbbae0f3f",
+      "sourceText": [
+        "ἰσραήλ"
+      ],
+      "targetText": [
+        "इस्राएल"
+      ],
+      "sourceIds": [
+        "sources:43001049015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "57973ee2-f631-4545-8409-dca23c317b80",
+      "sourceText": [
+        "βηθσαϊδά"
+      ],
+      "targetText": [
+        "बैतसैदा"
+      ],
+      "sourceIds": [
+        "sources:43001044006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "595b884e-b203-4fe1-8aae-f8d613f6c2e4",
+      "sourceText": [
+        "ἡμέραν"
+      ],
+      "targetText": [
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43001039017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5a8b20bb-37f2-4aec-9fa9-d18ca500a759",
+      "sourceText": [
+        "ἔδωκεν"
+      ],
+      "targetText": [
+        "दे",
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001012005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5b816969-8682-4a98-b584-46a4f7eb9c74",
+      "sourceText": [
+        "εἶπον",
+        "ὑμῖν"
+      ],
+      "targetText": [
+        "तुम",
+        "से",
+        "कहीं"
+      ],
+      "sourceIds": [
+        "sources:43001015011",
+        "sources:40005018004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5c0c59e8-8456-483a-a83c-84b87e8521de",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5d19504f-58c2-4b36-a3de-dfc7a4cb7ae1",
+      "sourceText": [
+        "πόθεν"
+      ],
+      "targetText": [
+        "कैसे"
+      ],
+      "sourceIds": [
+        "sources:43002009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5d9031e5-f988-4562-8fba-76e5dcc3cf27",
+      "sourceText": [
+        "κληθήσῃ"
+      ],
+      "targetText": [
+        "कहलाएगा"
+      ],
+      "sourceIds": [
+        "sources:43001042018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5d9da030-e0a2-49a2-ae7e-5d0b9c07cd8b",
+      "sourceText": [
+        "ὃ"
+      ],
+      "targetText": [
+        "जो"
+      ],
+      "sourceIds": [
+        "sources:43001003011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5dfda9d7-c318-40f0-9c20-110b9ab8f580",
+      "sourceText": [
+        "ἠγάπησαν"
+      ],
+      "targetText": [
+        "अधिक",
+        "प्रिय",
+        "जाना"
+      ],
+      "sourceIds": [
+        "sources:43003019014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5e2275e5-c6a0-4ee6-801e-e7e270ed35ed",
+      "sourceText": [
+        "βόας"
+      ],
+      "targetText": [
+        "बैल"
+      ],
+      "sourceIds": [
+        "sources:43002014008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5e96b8cf-838b-4a22-a634-83f7a839d8d9",
+      "sourceText": [
+        "ἐμὴ"
+      ],
+      "targetText": [
+        "मेरा"
+      ],
+      "sourceIds": [
+        "sources:43003029029"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5eb0a0b9-7dfc-4453-94a7-b12bd7a7b198",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5fc2d1c3-4ae8-4d9c-ab9f-80c624759e03",
+      "sourceText": [
+        "γέγονεν"
+      ],
+      "targetText": [
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001003012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5fc798e1-eb92-4df9-8635-9328150c960a",
+      "sourceText": [
+        "ἐφανέρωσεν"
+      ],
+      "targetText": [
+        "प्रगट",
+        "की"
+      ],
+      "sourceIds": [
+        "sources:43002011013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "5ffe038b-e35d-4d2e-81a9-af62a14937a0",
+      "sourceText": [
+        "ἐκεῖνος"
+      ],
+      "targetText": [
+        "वह"
+      ],
+      "sourceIds": [
+        "sources:43001008003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "60890471-910f-4fd3-9232-71f24939fcdc",
+      "sourceText": [
+        "ὄψεσθε"
+      ],
+      "targetText": [
+        "देख",
+        "लोगे"
+      ],
+      "sourceIds": [
+        "sources:43001039005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "608fabc0-64d7-4257-bc71-927457cf1934",
+      "sourceText": [
+        "ἀπέστειλαν"
+      ],
+      "targetText": [
+        "भेजा"
+      ],
+      "sourceIds": [
+        "sources:43001019009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "60ff4ba0-90b3-4fc5-a259-47ae1af972d7",
+      "sourceText": [
+        "ὑποκάτω"
+      ],
+      "targetText": [
+        "तले"
+      ],
+      "sourceIds": [
+        "sources:43001050012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "617bef18-50d7-46b1-bce2-8af41323d17c",
+      "sourceText": [
+        "ἐμαρτύρησεν"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001032002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "618a4cc3-b6bd-4b25-a774-e6c512047252",
+      "sourceText": [
+        "ἰουδαῖοι"
+      ],
+      "targetText": [
+        "यहूदियों"
+      ],
+      "sourceIds": [
+        "sources:43001019011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6196e16d-ddb7-4df3-a430-40226de88332",
+      "sourceText": [
+        "ἰωάννου"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001019007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "61d3120e-4f10-4d19-986c-83c3c0d152b6",
+      "sourceText": [
+        "ἀληθείας"
+      ],
+      "targetText": [
+        "सच्चाई"
+      ],
+      "sourceIds": [
+        "sources:43001014023"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "62bc0e91-f238-44b2-bb27-099550788edf",
+      "sourceText": [
+        "πρῶτός"
+      ],
+      "targetText": [
+        "पहले"
+      ],
+      "sourceIds": [
+        "sources:43001015020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "636bdc9d-875c-491a-b95a-d56753091798",
+      "sourceText": [
+        "ἰησοῦ"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001017013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "64241912-e646-450f-9abf-44f93b421d36",
+      "sourceText": [
+        "φέρετε"
+      ],
+      "targetText": [
+        "ले",
+        "जाओ"
+      ],
+      "sourceIds": [
+        "sources:43002008007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "65cf6908-a533-469d-97ad-b2a7db5e93b3",
+      "sourceText": [
+        "πιστεύων"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43003015004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "66180595-ea14-4802-92c2-8fc3e4242111",
+      "sourceText": [
+        "τρισὶν",
+        "ἡμέραις"
+      ],
+      "targetText": [
+        "तीन",
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43002019012",
+        "sources:43002019013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "669fd0bc-c2a4-45e9-83bb-73ed3439f4e5",
+      "sourceText": [
+        "μέτρου"
+      ],
+      "targetText": [
+        "नापकर"
+      ],
+      "sourceIds": [
+        "sources:43003034014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "67382af3-0c53-4b16-b915-3707ddba9523",
+      "sourceText": [
+        "μισεῖ",
+        "τὸ",
+        "φῶς"
+      ],
+      "targetText": [
+        "ज्योति",
+        "से",
+        "बैर",
+        "रखता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003020006",
+        "sources:40005001007",
+        "sources:40005014004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6743f66b-97a6-4a1f-9f4f-93c89d0a06c9",
+      "sourceText": [
+        "εἴπω",
+        "τὰ",
+        "ἐπουράνια"
+      ],
+      "targetText": [
+        "स्वर्ग",
+        "की",
+        "बातें",
+        "कहूँ"
+      ],
+      "sourceIds": [
+        "sources:43003012011",
+        "sources:40005016012",
+        "sources:43003012014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "67a8066a-8a40-47e4-ba20-6de2f8c3e350",
+      "sourceText": [
+        "γεννηθῇ"
+      ],
+      "targetText": [
+        "जन्मे"
+      ],
+      "sourceIds": [
+        "sources:43003003013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6824ae4e-f8f9-43e9-9438-8dd088d5dbb2",
+      "sourceText": [
+        "κρίνεται"
+      ],
+      "targetText": [
+        "दण्ड",
+        "की",
+        "आज्ञा"
+      ],
+      "sourceIds": [
+        "sources:43003018006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "68349159-f62e-4080-890c-ff162b5bdab8",
+      "sourceText": [
+        "παρεγίνοντο"
+      ],
+      "targetText": [
+        "लोग",
+        "आकर"
+      ],
+      "sourceIds": [
+        "sources:43003023018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6899164e-12a6-4a4d-b525-74a1f2a25ac1",
+      "sourceText": [
+        "πνεῦμα"
+      ],
+      "targetText": [
+        "हवा"
+      ],
+      "sourceIds": [
+        "sources:43001032008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "68e2399e-0c23-4e35-86a6-b2b72e22c8c3",
+      "sourceText": [
+        "ἀμνὸς"
+      ],
+      "targetText": [
+        "मेम्ना"
+      ],
+      "sourceIds": [
+        "sources:43001029013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6905163a-35bc-4066-8494-7a7c4afeefdf",
+      "sourceText": [
+        "κόσμον"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "69c5718c-fa2a-4d64-98f9-268520ddc33c",
+      "sourceText": [
+        "ἰωάννου"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001019007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6baa4f86-ca92-4f54-93a8-9e6d12c739e9",
+      "sourceText": [
+        "ἀνδρέας"
+      ],
+      "targetText": [
+        "अन्द्रियास"
+      ],
+      "sourceIds": [
+        "sources:43001040002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6c4a3f90-e512-4aa0-b755-8dca93204ac7",
+      "sourceText": [
+        "βαπτίζων"
+      ],
+      "targetText": [
+        "बपतिस्मा"
+      ],
+      "sourceIds": [
+        "sources:43001028012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6ce13f77-15ff-4327-9adf-c048ba50db68",
+      "sourceText": [
+        "φραγέλλιον"
+      ],
+      "targetText": [
+        "कोड़ा"
+      ],
+      "sourceIds": [
+        "sources:43002015003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6d029c09-d3b9-45cc-84c8-ad314265e66d",
+      "sourceText": [
+        "εἰμὶ"
+      ],
+      "targetText": [
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001020011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6d4ec477-762b-4d65-868e-787152617d1f",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6dadc732-a6c3-4e96-9578-8779ab690531",
+      "sourceText": [
+        "καταβαίνοντας"
+      ],
+      "targetText": [
+        "ऊपर",
+        "उतरते"
+      ],
+      "sourceIds": [
+        "sources:43001051019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6e83a601-a3d3-43a5-bf97-d90e207b7abe",
+      "sourceText": [
+        "μένεις"
+      ],
+      "targetText": [
+        "रहता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001038023"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6e85ec5f-c4ef-4587-9439-e8456042e815",
+      "sourceText": [
+        "ἱερῷ"
+      ],
+      "targetText": [
+        "मन्दिर"
+      ],
+      "sourceIds": [
+        "sources:43002014005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6eb0dd3d-5f13-4a91-ab1f-24e0747a0635",
+      "sourceText": [
+        "πρῶτός"
+      ],
+      "targetText": [
+        "पहले"
+      ],
+      "sourceIds": [
+        "sources:43001015020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6ec90625-c51e-4774-aecb-52dcf5c38fae",
+      "sourceText": [
+        "ἐλήλυθεν"
+      ],
+      "targetText": [
+        "आई"
+      ],
+      "sourceIds": [
+        "sources:43003019009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "6ffc7138-cc2b-43b1-af21-f7d4971bb598",
+      "sourceText": [
+        "μείζω"
+      ],
+      "targetText": [
+        "बड़े-बड़े"
+      ],
+      "sourceIds": [
+        "sources:43001050016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "703a8ef5-a0b0-4d92-9868-d15e32c2b06b",
+      "sourceText": [
+        "ἀπεσταλμένος"
+      ],
+      "targetText": [
+        "भेजा",
+        "गया"
+      ],
+      "sourceIds": [
+        "sources:43001006003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7045f172-e5db-4eea-9729-db7e4c3dfa10",
+      "sourceText": [
+        "ἐκεῖνος"
+      ],
+      "targetText": [
+        "उसी"
+      ],
+      "sourceIds": [
+        "sources:43001008003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "704ce737-1046-469f-b739-a46fd86a4b7a",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "71369b16-3b8c-4b81-97f5-ed8ae36fe093",
+      "sourceText": [
+        "ἰησοῦ"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001017013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "71de5f93-7839-4567-8867-3e67283ac686",
+      "sourceText": [
+        "ποῦ",
+        "ὑπάγει"
+      ],
+      "targetText": [
+        "किधर",
+        "को",
+        "जाती",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001038022",
+        "sources:43003008018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "71edf1ff-db31-498e-82a3-b32ba5670caa",
+      "sourceText": [
+        "θεόν"
+      ],
+      "targetText": [
+        "परमेश्वर"
+      ],
+      "sourceIds": [
+        "sources:43001001012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "72003f3f-73db-4e57-962e-a890b8ace242",
+      "sourceText": [
+        "ἀνεῳγότα"
+      ],
+      "targetText": [
+        "खुला"
+      ],
+      "sourceIds": [
+        "sources:43001051011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "729f0977-c578-4073-8809-2ff9242f24d0",
+      "sourceText": [
+        "ἐπίστευεν"
+      ],
+      "targetText": [
+        "भरोसे"
+      ],
+      "sourceIds": [
+        "sources:43002024005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "72b84dbd-bea4-49e3-ba17-109780045f2f",
+      "sourceText": [
+        "μαρτυρία"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001019005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "73e6bfdf-8422-48dc-8ab5-a217d1eb7322",
+      "sourceText": [
+        "ἦλθαν"
+      ],
+      "targetText": [
+        "उन्होंने",
+        "आकर"
+      ],
+      "sourceIds": [
+        "sources:43001039006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "744f3f13-28cc-4a68-8c43-9e878d1a5a60",
+      "sourceText": [
+        "χειρὶ"
+      ],
+      "targetText": [
+        "हाथ"
+      ],
+      "sourceIds": [
+        "sources:43003035011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "74600feb-c32b-40df-82a0-7525162c16a9",
+      "sourceText": [
+        "ὀργὴ"
+      ],
+      "targetText": [
+        "क्रोध"
+      ],
+      "sourceIds": [
+        "sources:43003036019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "74949762-4012-453a-b4bb-2bfdaef49f97",
+      "sourceText": [
+        "ἰησοῦν"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001029005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "74b55527-8ca2-4889-a698-fcb240a3ab6c",
+      "sourceText": [
+        "γαλιλαίας"
+      ],
+      "targetText": [
+        "गलील"
+      ],
+      "sourceIds": [
+        "sources:43002001011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7564111c-b3b5-49bb-805e-09fb1cb77792",
+      "sourceText": [
+        "φωνεῖ"
+      ],
+      "targetText": [
+        "बुलाकर"
+      ],
+      "sourceIds": [
+        "sources:43002009023"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7620e555-c826-4a65-a4da-d43ec2827725",
+      "sourceText": [
+        "ὄψεσθε"
+      ],
+      "targetText": [
+        "देखोगे"
+      ],
+      "sourceIds": [
+        "sources:43001039005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7641932a-9b03-4e7c-a1e6-7c68d5103b14",
+      "sourceText": [
+        "μήτηρ"
+      ],
+      "targetText": [
+        "माता"
+      ],
+      "sourceIds": [
+        "sources:43002001015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "76b81b68-4275-492a-8412-50c67d87818a",
+      "sourceText": [
+        "μαρτυρίαν",
+        "αὐτοῦ"
+      ],
+      "targetText": [
+        "उसकी",
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001007004",
+        "sources:40005001011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "773c13d1-4337-4260-a224-2f0e251abe40",
+      "sourceText": [
+        "βασιλεὺς"
+      ],
+      "targetText": [
+        "महाराजा"
+      ],
+      "sourceIds": [
+        "sources:43001049012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7758dfc9-41a9-4626-bd20-523f5bd9d26a",
+      "sourceText": [
+        "εἶδόν"
+      ],
+      "targetText": [
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001048021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "79d8a53e-ac9b-46cc-b80d-df08b9ba51de",
+      "sourceText": [
+        "ἱεροῦ"
+      ],
+      "targetText": [
+        "मन्दिर"
+      ],
+      "sourceIds": [
+        "sources:43002015010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7a7f3662-a52a-41c5-bae7-2d2c93c6e05e",
+      "sourceText": [
+        "ἀπεκρίθησαν",
+        "εἶπαν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43002018001",
+        "sources:43001022001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7b1519a0-ddd2-4ced-8e94-0f147060dff2",
+      "sourceText": [
+        "ἄνωθεν"
+      ],
+      "targetText": [
+        "ऊपर"
+      ],
+      "sourceIds": [
+        "sources:43003003014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7b80e4fd-b0b4-4770-9ae5-dbc12045cdbf",
+      "sourceText": [
+        "ἑώρακα"
+      ],
+      "targetText": [
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001034002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7b9d87d1-cf9d-40f1-b5f9-7eaf5b4a7d77",
+      "sourceText": [
+        "ἐσφράγισεν"
+      ],
+      "targetText": [
+        "छाप",
+        "दे",
+        "दी"
+      ],
+      "sourceIds": [
+        "sources:43003033006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7bcdfcb2-98d7-4236-8259-9ba378e5a209",
+      "sourceText": [
+        "ὄψεται"
+      ],
+      "targetText": [
+        "देखेगा"
+      ],
+      "sourceIds": [
+        "sources:43003036015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7bdfd0c8-74ba-41f3-bf3d-7448390b998d",
+      "sourceText": [
+        "γέγονεν"
+      ],
+      "targetText": [
+        "उत्पन्न",
+        "हुई"
+      ],
+      "sourceIds": [
+        "sources:43001003012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7c08e463-08d6-42b0-a1d6-f8ebcf9ac2a3",
+      "sourceText": [
+        "πάντας"
+      ],
+      "targetText": [
+        "सब",
+        "को"
+      ],
+      "sourceIds": [
+        "sources:43002015006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7cf024d5-fba6-45dc-83dc-19f961a11531",
+      "sourceText": [
+        "λίθιναι"
+      ],
+      "targetText": [
+        "पत्थर",
+        "के"
+      ],
+      "sourceIds": [
+        "sources:43002006004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7d5a4931-ed4a-4a76-98c2-79d505196204",
+      "sourceText": [
+        "ἀνθρώπῳ"
+      ],
+      "targetText": [
+        "मनुष्य"
+      ],
+      "sourceIds": [
+        "sources:43002025019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7e1c3d57-08f3-4d2f-b64b-9d84a496c89d",
+      "sourceText": [
+        "ὑστερήσαντος"
+      ],
+      "targetText": [
+        "खत्म",
+        "हो",
+        "गया"
+      ],
+      "sourceIds": [
+        "sources:43002003002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7e6cd39e-a114-4ad5-947e-a7c9a8180e4a",
+      "sourceText": [
+        "ἠντληκότες"
+      ],
+      "targetText": [
+        "निकाला"
+      ],
+      "sourceIds": [
+        "sources:43002009020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7e854b5d-82ee-42b4-81d1-6c71fc97cfe3",
+      "sourceText": [
+        "γεγενημένον"
+      ],
+      "targetText": [
+        "बन",
+        "गया",
+        "था"
+      ],
+      "sourceIds": [
+        "sources:43002009009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7e868034-f246-4731-b0e4-b886fd484170",
+      "sourceText": [
+        "σκοτία"
+      ],
+      "targetText": [
+        "अंधकार"
+      ],
+      "sourceIds": [
+        "sources:43001005010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7f102c42-54f3-4044-af28-09d6b980d853",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "7ff48ea8-1d4d-4c14-93b0-07c161149db8",
+      "sourceText": [
+        "μεσσίαν",
+        "χριστός"
+      ],
+      "targetText": [
+        "ख्रिस्त",
+        "मसीह"
+      ],
+      "sourceIds": [
+        "sources:43001041014",
+        "sources:43001020013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "80079e61-09e4-476f-8808-249feb8f2049",
+      "sourceText": [
+        "γύναι"
+      ],
+      "targetText": [
+        "महिला"
+      ],
+      "sourceIds": [
+        "sources:43002004010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "801d27d1-8674-4899-bbb9-2d8cac52a17e",
+      "sourceText": [
+        "λαμβάνειν"
+      ],
+      "targetText": [
+        "पा"
+      ],
+      "sourceIds": [
+        "sources:43003027008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "80386d25-0cdb-4c07-8bb7-3bdea6fdd103",
+      "sourceText": [
+        "οἶνον"
+      ],
+      "targetText": [
+        "दाखरस"
+      ],
+      "sourceIds": [
+        "sources:43002009008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "80817d5d-99a0-4693-a254-975eb109fbb8",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "80f8f1bf-b83a-464b-a869-b1c9116a301e",
+      "sourceText": [
+        "υἱὸν"
+      ],
+      "targetText": [
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43001045019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "81b089da-1d27-41cc-b027-1bbbdb66321d",
+      "sourceText": [
+        "μένει",
+        "ἔμειναν"
+      ],
+      "targetText": [
+        "रहने",
+        "का",
+        "स्थान",
+        "साथ",
+        "रहे"
+      ],
+      "sourceIds": [
+        "sources:43001039011",
+        "sources:43001039015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "81e3665b-d58c-462b-8df6-2b6a69334a81",
+      "sourceText": [
+        "ἦλθεν"
+      ],
+      "targetText": [
+        "आए"
+      ],
+      "sourceIds": [
+        "sources:43001007002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "820a1c30-24d7-4f88-a11b-d1bcee414435",
+      "sourceText": [
+        "ἰορδάνου"
+      ],
+      "targetText": [
+        "यरदन"
+      ],
+      "sourceIds": [
+        "sources:43001028007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "83e280f8-9d0a-410f-a107-6b87a5f57a61",
+      "sourceText": [
+        "εἰμὶ"
+      ],
+      "targetText": [
+        "हूँ"
+      ],
+      "sourceIds": [
+        "sources:43001020011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "84b67fa1-bcf0-488a-a644-1f5cea12789e",
+      "sourceText": [
+        "εἶδόν"
+      ],
+      "targetText": [
+        "देखा"
+      ],
+      "sourceIds": [
+        "sources:43001048021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "85f95a50-ee91-4cc3-a476-6dde8f743988",
+      "sourceText": [
+        "ᾔδειν"
+      ],
+      "targetText": [
+        "पहचानता"
+      ],
+      "sourceIds": [
+        "sources:43001031003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "85fb8f4d-5c6f-439f-a453-164fc9cfb350",
+      "sourceText": [
+        "διδάσκαλε"
+      ],
+      "targetText": [
+        "हे",
+        "गुरु"
+      ],
+      "sourceIds": [
+        "sources:43001038021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8631d2d7-c5e3-4c81-9252-ae76967ce7f3",
+      "sourceText": [
+        "εἶχεν"
+      ],
+      "targetText": [
+        "उसे"
+      ],
+      "sourceIds": [
+        "sources:43002025005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "86399a91-3d53-4e63-b779-505d4e720f01",
+      "sourceText": [
+        "μαρτυρεῖ"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001015002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "86461fdc-1963-4f51-8b5f-1ba760b8bfa6",
+      "sourceText": [
+        "ἦλθεν"
+      ],
+      "targetText": [
+        "आकर"
+      ],
+      "sourceIds": [
+        "sources:43001007002"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "86d72f08-b7af-4b44-8c05-fa1bfea65511",
+      "sourceText": [
+        "αὐτὸς"
+      ],
+      "targetText": [
+        "वह",
+        "आप"
+      ],
+      "sourceIds": [
+        "sources:43002012006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "870d9e2e-99df-447f-acf3-7f0f96b98000",
+      "sourceText": [
+        "ἐγερεῖς"
+      ],
+      "targetText": [
+        "खड़ा",
+        "कर",
+        "देगा"
+      ],
+      "sourceIds": [
+        "sources:43002020018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "875aac25-7c75-4fa0-91e4-9682cc3f2101",
+      "sourceText": [
+        "θελήματος"
+      ],
+      "targetText": [
+        "इच्छा"
+      ],
+      "sourceIds": [
+        "sources:43001013007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8818f211-64f5-48a1-b31e-c857b0f33536",
+      "sourceText": [
+        "νυκτὸς"
+      ],
+      "targetText": [
+        "रात"
+      ],
+      "sourceIds": [
+        "sources:43003002005"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "88549eef-f93a-4e77-91a6-0bd316c48974",
+      "sourceText": [
+        "ἐκλήθη"
+      ],
+      "targetText": [
+        "निमंत्रित",
+        "थे"
+      ],
+      "sourceIds": [
+        "sources:43002002001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "886396ad-9fe8-498b-a68b-b5b1cf0f2781",
+      "sourceText": [
+        "κανὰ"
+      ],
+      "targetText": [
+        "काना"
+      ],
+      "sourceIds": [
+        "sources:43002001009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "887274d6-0283-4507-b684-3e4ade21414d",
+      "sourceText": [
+        "προφήτης"
+      ],
+      "targetText": [
+        "भविष्यद्वक्ता"
+      ],
+      "sourceIds": [
+        "sources:43001021014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "88ccaabf-2852-4e01-9a81-7e296aca251c",
+      "sourceText": [
+        "μονογενὴς"
+      ],
+      "targetText": [
+        "एकलौता"
+      ],
+      "sourceIds": [
+        "sources:43001018005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "88e7b702-0360-4ff9-b4e3-8a223c201122",
+      "sourceText": [
+        "ἠλίας"
+      ],
+      "targetText": [
+        "एलिय्याह"
+      ],
+      "sourceIds": [
+        "sources:43001021007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "89f12290-55fa-430c-93f4-a05f21188306",
+      "sourceText": [
+        "κατέλαβεν"
+      ],
+      "targetText": [
+        "ग्रहण"
+      ],
+      "sourceIds": [
+        "sources:43001005013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8a21d7fd-7727-4629-a094-c258a941e1da",
+      "sourceText": [
+        "φανερωθῇ"
+      ],
+      "targetText": [
+        "प्रगट"
+      ],
+      "sourceIds": [
+        "sources:43001031007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8a4fc428-bb50-4820-810a-d156178a4b2f",
+      "sourceText": [
+        "ἁμαρτίαν"
+      ],
+      "targetText": [
+        "पाप"
+      ],
+      "sourceIds": [
+        "sources:43001029019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8b3bbd47-dd44-41b2-b7e7-2a327a1ca433",
+      "sourceText": [
+        "οὐρανὸν"
+      ],
+      "targetText": [
+        "स्वर्ग"
+      ],
+      "sourceIds": [
+        "sources:43001051010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8bf08952-6819-4e9c-b239-3aedf7fadbc5",
+      "sourceText": [
+        "ἱμάντα"
+      ],
+      "targetText": [
+        "फीता"
+      ],
+      "sourceIds": [
+        "sources:43001027013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8c8f5573-75a7-4449-ba86-e07b9cd95b80",
+      "sourceText": [
+        "μαρτυροῦμεν"
+      ],
+      "targetText": [
+        "उसकी",
+        "गवाही",
+        "देते",
+        "हैं"
+      ],
+      "sourceIds": [
+        "sources:43003011012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8d1dae08-685f-46cb-9e14-64f2bc2984d8",
+      "sourceText": [
+        "υἱὸν",
+        "ἀνθρώπου"
+      ],
+      "targetText": [
+        "मनुष्य",
+        "के",
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43001045019",
+        "sources:43001051024"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8d2c59e6-9069-4caa-9351-276f9570d4c1",
+      "sourceText": [
+        "ὄνομα"
+      ],
+      "targetText": [
+        "नाम"
+      ],
+      "sourceIds": [
+        "sources:43001006006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8d309da0-23fe-4a76-be93-6ed3c02f19cb",
+      "sourceText": [
+        "ἀπεσταλμένοι"
+      ],
+      "targetText": [
+        "भेजे",
+        "गए"
+      ],
+      "sourceIds": [
+        "sources:43001024002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8d3c7e07-6ee9-4dc4-b972-fed5fa2fdea7",
+      "sourceText": [
+        "μεθυσθῶσιν"
+      ],
+      "targetText": [
+        "पीकर",
+        "छक",
+        "जाते",
+        "हैं"
+      ],
+      "sourceIds": [
+        "sources:43002010013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8d7eb6f1-59dc-4360-bc06-9fe8baeb1fdd",
+      "sourceText": [
+        "γέρων"
+      ],
+      "targetText": [
+        "बूढ़ा"
+      ],
+      "sourceIds": [
+        "sources:43003004010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8e37e80c-3793-48d4-9724-cb45164a1487",
+      "sourceText": [
+        "ἐθεασάμεθα"
+      ],
+      "targetText": [
+        "देखी"
+      ],
+      "sourceIds": [
+        "sources:43001014011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8eeed3d2-dfd4-4813-8711-cf8bc49df987",
+      "sourceText": [
+        "πέτρου"
+      ],
+      "targetText": [
+        "पतरस"
+      ],
+      "sourceIds": [
+        "sources:43001040006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "8f728f63-7238-4677-ab6c-dc2d9b8f16c2",
+      "sourceText": [
+        "ζωὴν"
+      ],
+      "targetText": [
+        "जीवन"
+      ],
+      "sourceIds": [
+        "sources:43003015008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "90bb9a07-7fd6-4fc9-9b2b-d98a374c9799",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "उसने",
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "90c5a8ba-1983-4692-97d7-ab6621e94aa9",
+      "sourceText": [
+        "γεννηθῇ",
+        "ὕδατος",
+        "πνεύματος"
+      ],
+      "targetText": [
+        "जल",
+        "और",
+        "आत्मा",
+        "से"
+      ],
+      "sourceIds": [
+        "sources:43003003013",
+        "sources:43002007008",
+        "sources:43003005014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9124fdb7-df53-4ca1-b121-d3823c8001b6",
+      "sourceText": [
+        "χαρὰ"
+      ],
+      "targetText": [
+        "हर्ष"
+      ],
+      "sourceIds": [
+        "sources:43003029027"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "91955767-3551-4b1a-8fed-ddb7d8ad6275",
+      "sourceText": [
+        "ὄψῃ"
+      ],
+      "targetText": [
+        "देखेगा"
+      ],
+      "sourceIds": [
+        "sources:43001050018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "922615ea-d25d-4087-98cd-a2f36ddb18a5",
+      "sourceText": [
+        "γεγεννημένον",
+        "σαρκὸς"
+      ],
+      "targetText": [
+        "जो",
+        "शरीर",
+        "से",
+        "जन्मा",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003006002",
+        "sources:43001013008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "926e5f93-c4b7-4969-ba57-ea8ac4011ac8",
+      "sourceText": [
+        "ὕδατι"
+      ],
+      "targetText": [
+        "जल"
+      ],
+      "sourceIds": [
+        "sources:43001026009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "93469dc1-d628-4090-aa73-1f7cdcff37bd",
+      "sourceText": [
+        "θελήματος"
+      ],
+      "targetText": [
+        "इच्छा"
+      ],
+      "sourceIds": [
+        "sources:43001013007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "93f1ecce-290c-4265-be35-36c76cd7ebc2",
+      "sourceText": [
+        "εἶπαν",
+        "αὐτῷ"
+      ],
+      "targetText": [
+        "उन्होंने",
+        "उससे",
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001022001",
+        "sources:40005001013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9407bec3-2f80-4577-913d-c3888f78c903",
+      "sourceText": [
+        "μετρητὰς"
+      ],
+      "targetText": [
+        "मन"
+      ],
+      "sourceIds": [
+        "sources:43002006015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "943d91ac-5416-4708-8129-0cd870661681",
+      "sourceText": [
+        "λύσω"
+      ],
+      "targetText": [
+        "खोलने"
+      ],
+      "sourceIds": [
+        "sources:43001027010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "949c6d51-bfe5-4fe8-97a6-fa89677fbc47",
+      "sourceText": [
+        "σὰρξ",
+        "ἐγένετο"
+      ],
+      "targetText": [
+        "देहधारी",
+        "हुआ"
+      ],
+      "sourceIds": [
+        "sources:43001014004",
+        "sources:40007028002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "94a6f95f-efee-4666-93da-ff1c6a26bfb2",
+      "sourceText": [
+        "οἶνον"
+      ],
+      "targetText": [
+        "दाखरस"
+      ],
+      "sourceIds": [
+        "sources:43002009008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "94c0cdc7-ad7f-49d4-95f3-0e1fabb09e67",
+      "sourceText": [
+        "ῥαββί"
+      ],
+      "targetText": [
+        "रब्बी"
+      ],
+      "sourceIds": [
+        "sources:43001038017"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "950fead6-1df3-4c27-bf37-c1551b11ec34",
+      "sourceText": [
+        "ἕστηκεν"
+      ],
+      "targetText": [
+        "खड़ा",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001026012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "954d015b-1fbe-4d4d-a1d1-0e1310e9d56b",
+      "sourceText": [
+        "οὐδεὶς",
+        "ἀναβέβηκεν",
+        "οὐρανὸν",
+        "μὴ"
+      ],
+      "targetText": [
+        "कोई"
+      ],
+      "sourceIds": [
+        "sources:43001018002",
+        "sources:43003013003",
+        "sources:43001051010",
+        "sources:40005013020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9553f6a3-db70-4478-8bb2-a78f2d07482f",
+      "sourceText": [
+        "ἰουδαῖοι"
+      ],
+      "targetText": [
+        "यहूदियों"
+      ],
+      "sourceIds": [
+        "sources:43001019011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "965fcf63-8182-4d68-a87b-7028a673915e",
+      "sourceText": [
+        "πάντες"
+      ],
+      "targetText": [
+        "सब"
+      ],
+      "sourceIds": [
+        "sources:43001007011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9772db8d-7c1e-4ede-8ca2-e81070fa8700",
+      "sourceText": [
+        "ἀλήθεια"
+      ],
+      "targetText": [
+        "सच्चाई"
+      ],
+      "sourceIds": [
+        "sources:43001017011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "97ba5d07-dec4-4fb9-a363-97f689610b5a",
+      "sourceText": [
+        "ἀληθινὸν"
+      ],
+      "targetText": [
+        "सच्ची"
+      ],
+      "sourceIds": [
+        "sources:43001009005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9807187d-6e4e-4321-9a9e-18a89216219f",
+      "sourceText": [
+        "ἐλεγχθῇ"
+      ],
+      "targetText": [
+        "दोष",
+        "लगाया",
+        "जाए"
+      ],
+      "sourceIds": [
+        "sources:43003020017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "980d1b4f-bc99-4677-910a-48b5ee8d5e17",
+      "sourceText": [
+        "ποιήσατε"
+      ],
+      "targetText": [
+        "करना"
+      ],
+      "sourceIds": [
+        "sources:43002005012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "98af43e7-dcfc-4f09-8da6-6f97d25169ae",
+      "sourceText": [
+        "φωτός"
+      ],
+      "targetText": [
+        "ज्योति"
+      ],
+      "sourceIds": [
+        "sources:43001007009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "998becac-3219-4f9c-ab37-2c3a94727da9",
+      "sourceText": [
+        "γαλιλαίας"
+      ],
+      "targetText": [
+        "गलील"
+      ],
+      "sourceIds": [
+        "sources:43002001011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "999dd749-96f8-4fe8-97f7-6b3903dc76f1",
+      "sourceText": [
+        "υἱὸν",
+        "ἀνθρώπου"
+      ],
+      "targetText": [
+        "मनुष्य",
+        "का",
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43001045019",
+        "sources:43001051024"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9b666986-ea4a-4102-8352-80bf943d5bcd",
+      "sourceText": [
+        "ἐγεύσατο"
+      ],
+      "targetText": [
+        "चखा"
+      ],
+      "sourceIds": [
+        "sources:43002009003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9b6a9077-3c82-43cd-8866-edff630722c9",
+      "sourceText": [
+        "ὢν"
+      ],
+      "targetText": [
+        "हैं"
+      ],
+      "sourceIds": [
+        "sources:43001018008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9b6bd236-350f-487f-a324-6c5790420b9f",
+      "sourceText": [
+        "ἐποίησεν"
+      ],
+      "targetText": [
+        "किया"
+      ],
+      "sourceIds": [
+        "sources:43002011002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9c222166-9c3a-45ea-b001-9d9ddedd675a",
+      "sourceText": [
+        "ἔδωκεν"
+      ],
+      "targetText": [
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001012005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9c5b9225-c2c7-4058-9645-aa4a0401aa85",
+      "sourceText": [
+        "ναθαναὴλ"
+      ],
+      "targetText": [
+        "नतनएल"
+      ],
+      "sourceIds": [
+        "sources:43001045004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9c9b7142-eb27-4880-b049-41efcbda5a00",
+      "sourceText": [
+        "οἶνον"
+      ],
+      "targetText": [
+        "दाखरस"
+      ],
+      "sourceIds": [
+        "sources:43002009008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9cb2b715-10c6-4efb-8d51-b9ced75ef6c6",
+      "sourceText": [
+        "ἔχῃ",
+        "ζωὴν",
+        "αἰώνιον"
+      ],
+      "targetText": [
+        "परन्तु",
+        "अनन्त",
+        "जीवन",
+        "पाए"
+      ],
+      "sourceIds": [
+        "sources:43003015007",
+        "sources:43003015008",
+        "sources:43003015009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9e079a8b-51a4-4e13-92ac-77293461f396",
+      "sourceText": [
+        "δεικνύεις"
+      ],
+      "targetText": [
+        "दिखाता"
+      ],
+      "sourceIds": [
+        "sources:43002018010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9e7bb255-44bd-4c35-8c2d-4a4a00995c54",
+      "sourceText": [
+        "λέγῃ"
+      ],
+      "targetText": [
+        "कहे"
+      ],
+      "sourceIds": [
+        "sources:43002005010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9ecb78c1-3a2c-4bd2-bcc0-febccba1f089",
+      "sourceText": [
+        "ἀκουσάντων"
+      ],
+      "targetText": [
+        "सुनकर"
+      ],
+      "sourceIds": [
+        "sources:43001040012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9fbe6078-f37d-4f2d-9fde-4041c8edab30",
+      "sourceText": [
+        "θεωροῦντες"
+      ],
+      "targetText": [
+        "देखकर"
+      ],
+      "sourceIds": [
+        "sources:43002023019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9fc10dff-17e4-4edc-ad6c-8c7e62122249",
+      "sourceText": [
+        "αἰώνιον"
+      ],
+      "targetText": [
+        "अनन्त"
+      ],
+      "sourceIds": [
+        "sources:43003015009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "9fd0a8f4-f691-400d-8f6f-e3a76a41fe1a",
+      "sourceText": [
+        "ἀρχῇ"
+      ],
+      "targetText": [
+        "आदि"
+      ],
+      "sourceIds": [
+        "sources:43001001002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a04fa9e0-cde8-4b6f-a81b-0a103c069fb9",
+      "sourceText": [
+        "φίλιππον"
+      ],
+      "targetText": [
+        "फिलिप्पुस"
+      ],
+      "sourceIds": [
+        "sources:43001043010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a0de69ae-d29b-4732-80ee-4d787e84d059",
+      "sourceText": [
+        "πεπλήρωται"
+      ],
+      "targetText": [
+        "पूरा",
+        "हुआ",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003029030"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a1dd3d8a-b2af-4ec3-96bb-27d9ee4f4a0f",
+      "sourceText": [
+        "χάριτος"
+      ],
+      "targetText": [
+        "अनुग्रह"
+      ],
+      "sourceIds": [
+        "sources:43001014021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a1de189d-0fa3-44e4-aa8a-018bf33010f4",
+      "sourceText": [
+        "φωνὴν"
+      ],
+      "targetText": [
+        "शब्द"
+      ],
+      "sourceIds": [
+        "sources:43003008008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a218a0c4-ddfa-43bd-bdf4-6f4148eeb9b3",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a321cf09-ff3e-4410-90bc-2d6f7cab2b2a",
+      "sourceText": [
+        "γενέσθαι"
+      ],
+      "targetText": [
+        "होने",
+        "का"
+      ],
+      "sourceIds": [
+        "sources:43001012010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a3d6c55e-cdda-44b3-9351-1d43277a8595",
+      "sourceText": [
+        "μονογενοῦς"
+      ],
+      "targetText": [
+        "एकलौते"
+      ],
+      "sourceIds": [
+        "sources:43001014017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a408e78a-ed49-4409-8b6e-15d1a2d5b594",
+      "sourceText": [
+        "ἦσαν"
+      ],
+      "targetText": [
+        "वहाँ"
+      ],
+      "sourceIds": [
+        "sources:43001024003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a45379bf-fad5-409a-8db2-2cb03145e5db",
+      "sourceText": [
+        "ἀδελφὸς"
+      ],
+      "targetText": [
+        "भाई"
+      ],
+      "sourceIds": [
+        "sources:43001040004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a45c84f2-c818-440d-91b7-84ee17977079",
+      "sourceText": [
+        "πάντες"
+      ],
+      "targetText": [
+        "सब"
+      ],
+      "sourceIds": [
+        "sources:43001007011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a53749f9-ad03-4958-923f-7b2557335baf",
+      "sourceText": [
+        "πιστεύων"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43003015004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a574c9cd-2f90-483e-824e-a10def4ff95c",
+      "sourceText": [
+        "ὕψωσεν"
+      ],
+      "targetText": [
+        "ऊँचे",
+        "पर",
+        "चढ़ाया"
+      ],
+      "sourceIds": [
+        "sources:43003014004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a58e2b08-11be-4f78-878f-7dcff8239849",
+      "sourceText": [
+        "ἐγέμισαν"
+      ],
+      "targetText": [
+        "भर"
+      ],
+      "sourceIds": [
+        "sources:43002007010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a58f8d9e-289c-488d-a079-bf99115f77bb",
+      "sourceText": [
+        "ἔλεγεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43002021003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a5a3a3c9-370a-4a36-86b1-31e49172bcaa",
+      "sourceText": [
+        "κόσμῳ"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001010003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a641f0b9-38c7-431c-bbe8-0b1f22606bbc",
+      "sourceText": [
+        "πιστεύων"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43003015004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a6ce84b6-2fcb-4fce-81ac-ae9a542aedaf",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a6e3d8f2-3a3e-494c-8552-1020feb2b560",
+      "sourceText": [
+        "σαλείμ"
+      ],
+      "targetText": [
+        "सालेम"
+      ],
+      "sourceIds": [
+        "sources:43003023011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a6e85cf7-a6c5-4786-a999-3cc885641098",
+      "sourceText": [
+        "μαρτυρήσῃ"
+      ],
+      "targetText": [
+        "गवाही",
+        "दे"
+      ],
+      "sourceIds": [
+        "sources:43001007006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a7344815-10b6-47f9-8bdc-f0125c578d99",
+      "sourceText": [
+        "ᾔδεισαν"
+      ],
+      "targetText": [
+        "जानते"
+      ],
+      "sourceIds": [
+        "sources:43002009018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a770d62f-d8c0-435a-b50e-888749fa1c9e",
+      "sourceText": [
+        "οὔπω",
+        "ἥκει",
+        "ὥρα",
+        "μου"
+      ],
+      "targetText": [
+        "अभी",
+        "मेरा",
+        "समय",
+        "नहीं",
+        "आया"
+      ],
+      "sourceIds": [
+        "sources:43002004011",
+        "sources:43002004012",
+        "sources:43001039019",
+        "sources:40007021021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a77fa98e-c81e-4b02-949f-46722df6cce9",
+      "sourceText": [
+        "δόξαν"
+      ],
+      "targetText": [
+        "महिमा"
+      ],
+      "sourceIds": [
+        "sources:43001014013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a7d7b8e9-f003-46e7-8f30-40a7d9100c1a",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a87e27ff-a42d-443f-b523-1a5964582844",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a8fc9597-e975-4a65-bae5-b849ee8ef4ae",
+      "sourceText": [
+        "ὃ",
+        "ἑωράκαμεν"
+      ],
+      "targetText": [
+        "जिसे",
+        "हमने",
+        "देखा",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001003011",
+        "sources:43003011011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "a9a16f64-8292-4c31-b62b-b077a9be9e22",
+      "sourceText": [
+        "φωνῆσαι"
+      ],
+      "targetText": [
+        "बुलाया"
+      ],
+      "sourceIds": [
+        "sources:43001048016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "aa81a619-df98-4e02-9784-8f7f7028a437",
+      "sourceText": [
+        "ἀκολουθησάντων"
+      ],
+      "targetText": [
+        "पीछे",
+        "हो",
+        "लिए"
+      ],
+      "sourceIds": [
+        "sources:43001040016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "aabc7d17-05fd-4408-af29-f04159121f6b",
+      "sourceText": [
+        "μονογενῆ"
+      ],
+      "targetText": [
+        "एकलौता"
+      ],
+      "sourceIds": [
+        "sources:43003016012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ab6cdcce-769f-4cbf-9896-81504fd64369",
+      "sourceText": [
+        "ἰησοῦ"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001017013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ab725648-41b1-4c24-ada0-392863d4ec1f",
+      "sourceText": [
+        "πνεῦμά"
+      ],
+      "targetText": [
+        "आत्मा"
+      ],
+      "sourceIds": [
+        "sources:43003006014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ab8216ce-f13e-448e-b9d9-46f606105df1",
+      "sourceText": [
+        "ἄρχων"
+      ],
+      "targetText": [
+        "सरदार"
+      ],
+      "sourceIds": [
+        "sources:43003001010"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "abe6ef57-64cc-4f53-894f-bfe1227d7caa",
+      "sourceText": [
+        "βαπτίζει"
+      ],
+      "targetText": [
+        "बपतिस्मा"
+      ],
+      "sourceIds": [
+        "sources:43003026022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ac2b7043-917f-445a-84f7-22c505ef8e79",
+      "sourceText": [
+        "καταφάγεταί"
+      ],
+      "targetText": [
+        "खा",
+        "जाएगी"
+      ],
+      "sourceIds": [
+        "sources:43002017013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ace97d43-2308-435e-b063-3571a0ebd6bf",
+      "sourceText": [
+        "συκῆς"
+      ],
+      "targetText": [
+        "अंजीर",
+        "के",
+        "पेड़"
+      ],
+      "sourceIds": [
+        "sources:43001050014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ae8befce-16c4-49a8-a25d-030630eba35a",
+      "sourceText": [
+        "ἐγερῶ"
+      ],
+      "targetText": [
+        "खड़ा",
+        "कर",
+        "दूँगा"
+      ],
+      "sourceIds": [
+        "sources:43002019014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b0427943-54ae-489b-bbfb-bfc92972148d",
+      "sourceText": [
+        "πόλεως"
+      ],
+      "targetText": [
+        "नगर"
+      ],
+      "sourceIds": [
+        "sources:43001044009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b2411054-5d28-4773-b717-18074c621b49",
+      "sourceText": [
+        "νεκρῶν"
+      ],
+      "targetText": [
+        "मुर्दों"
+      ],
+      "sourceIds": [
+        "sources:43002022005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b2870ae3-5dfd-4742-a34a-6ce26ded7e60",
+      "sourceText": [
+        "πονηρὰ"
+      ],
+      "targetText": [
+        "बुरे"
+      ],
+      "sourceIds": [
+        "sources:43003019026"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b2aceed1-6311-4fed-9cb5-1a9546a9b9d9",
+      "sourceText": [
+        "εἶπον"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001015011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b315aa1e-f59b-4fe7-8466-3c71514b8977",
+      "sourceText": [
+        "ἀνδρέου"
+      ],
+      "targetText": [
+        "अन्द्रियास"
+      ],
+      "sourceIds": [
+        "sources:43001044010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b32d28ae-7608-4545-bf2d-6cd31bb732e2",
+      "sourceText": [
+        "ἀρχῇ"
+      ],
+      "targetText": [
+        "आदि"
+      ],
+      "sourceIds": [
+        "sources:43001001002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b33157e4-f341-4c5e-9dea-7812ba8b51b6",
+      "sourceText": [
+        "ὕδατος"
+      ],
+      "targetText": [
+        "पानी"
+      ],
+      "sourceIds": [
+        "sources:43002007008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b33b46de-10af-4528-8da8-f2561ee43613",
+      "sourceText": [
+        "θεόν"
+      ],
+      "targetText": [
+        "परमेश्वर"
+      ],
+      "sourceIds": [
+        "sources:43001001012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b3e65f30-af1b-4eea-a22c-4d0d87782b3d",
+      "sourceText": [
+        "μαθητῶν",
+        "ἰωάννου"
+      ],
+      "targetText": [
+        "यूहन्ना",
+        "के",
+        "चेलों"
+      ],
+      "sourceIds": [
+        "sources:43001035010",
+        "sources:43001019007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b4cd8d4b-b235-406b-850a-ca22a9872bed",
+      "sourceText": [
+        "περιστερὰς"
+      ],
+      "targetText": [
+        "कबूतर"
+      ],
+      "sourceIds": [
+        "sources:43002014012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b4f7f92d-831e-4d65-94d7-72872171001f",
+      "sourceText": [
+        "ναοῦ",
+        "τοῦ",
+        "σώματος"
+      ],
+      "targetText": [
+        "देह",
+        "के",
+        "मन्दिर"
+      ],
+      "sourceIds": [
+        "sources:43002021006",
+        "sources:40005014005",
+        "sources:43002021008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b5046fb1-fafd-4138-ba33-dafb23a5983b",
+      "sourceText": [
+        "κερματιστὰς"
+      ],
+      "targetText": [
+        "सर्राफों"
+      ],
+      "sourceIds": [
+        "sources:43002014015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b563bbd3-017d-45fe-a85c-e2ee2e89a0f9",
+      "sourceText": [
+        "κόσμον"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b570cb45-fd30-471e-b743-82b4201940e7",
+      "sourceText": [
+        "ἤκουσαν"
+      ],
+      "targetText": [
+        "सुनकर"
+      ],
+      "sourceIds": [
+        "sources:43001037002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b5bad7e0-55d1-4e27-a914-c5a410e6c155",
+      "sourceText": [
+        "πολλὰ"
+      ],
+      "targetText": [
+        "बहुत"
+      ],
+      "sourceIds": [
+        "sources:43003023014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b5f85e17-4c45-4e26-9b30-296a85b4bef4",
+      "sourceText": [
+        "ἐπαύριον"
+      ],
+      "targetText": [
+        "दूसरे",
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43001029002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b6326852-8b30-4b5b-b9cc-b338f0c73d16",
+      "sourceText": [
+        "στραφεὶς"
+      ],
+      "targetText": [
+        "मुड़कर"
+      ],
+      "sourceIds": [
+        "sources:43001038001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b6ac4674-2b42-436e-9eda-82de9cd53dfe",
+      "sourceText": [
+        "αἰώνιον"
+      ],
+      "targetText": [
+        "अनन्त"
+      ],
+      "sourceIds": [
+        "sources:43003015009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b6c792b9-c478-4f95-91c3-ebd6bd6254d7",
+      "sourceText": [
+        "ἑορτῇ"
+      ],
+      "targetText": [
+        "पर्व"
+      ],
+      "sourceIds": [
+        "sources:43002023012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b83fcd84-ceca-451b-9c66-77b6c89c5b79",
+      "sourceText": [
+        "ἔγραψεν"
+      ],
+      "targetText": [
+        "वर्णन"
+      ],
+      "sourceIds": [
+        "sources:43001045009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b858321c-c575-4867-9470-15f7ea282ecb",
+      "sourceText": [
+        "ἔλαβον"
+      ],
+      "targetText": [
+        "ग्रहण"
+      ],
+      "sourceIds": [
+        "sources:43001012003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b85a93d7-bb21-47be-93f9-8d1ac3b624b2",
+      "sourceText": [
+        "πώποτε"
+      ],
+      "targetText": [
+        "कभी"
+      ],
+      "sourceIds": [
+        "sources:43001018004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b87418b1-4975-4762-8110-3d8c2ca9075e",
+      "sourceText": [
+        "φίλιππος"
+      ],
+      "targetText": [
+        "फिलिप्पुस"
+      ],
+      "sourceIds": [
+        "sources:43001044004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b900fbe3-e991-4483-84b2-d5e774f050ad",
+      "sourceText": [
+        "ναθαναὴλ"
+      ],
+      "targetText": [
+        "नतनएल"
+      ],
+      "sourceIds": [
+        "sources:43001045004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "b9b3c9ff-2894-4d39-9518-538e89943a3b",
+      "sourceText": [
+        "ναθαναήλ"
+      ],
+      "targetText": [
+        "नतनएल"
+      ],
+      "sourceIds": [
+        "sources:43001046004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bad095e9-7c03-4441-ad2b-03271ed89457",
+      "sourceText": [
+        "ἀρχιτρικλίνῳ"
+      ],
+      "targetText": [
+        "भोज",
+        "के",
+        "प्रधान"
+      ],
+      "sourceIds": [
+        "sources:43002008009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bb271f7b-a4ae-4184-92da-96c74872ff76",
+      "sourceText": [
+        "ὡμολόγησεν"
+      ],
+      "targetText": [
+        "परन्तु",
+        "मान",
+        "लिया"
+      ],
+      "sourceIds": [
+        "sources:43001020002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bb86173b-0510-417c-b2f5-3a807cf2eb49",
+      "sourceText": [
+        "ἐβάπτιζεν"
+      ],
+      "targetText": [
+        "बपतिस्मा",
+        "देने",
+        "लगा"
+      ],
+      "sourceIds": [
+        "sources:43003022020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bbe6710d-c70b-4af1-b98c-fd3e10ee6aec",
+      "sourceText": [
+        "ἦλθεν"
+      ],
+      "targetText": [
+        "आया"
+      ],
+      "sourceIds": [
+        "sources:43001007002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bcb30738-aff8-4865-a698-81fd0532e7be",
+      "sourceText": [
+        "μέσος"
+      ],
+      "targetText": [
+        "बीच",
+        "में"
+      ],
+      "sourceIds": [
+        "sources:43001026010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bcc3d4e6-18ac-4f9b-9941-47b66a84ed95",
+      "sourceText": [
+        "ἁγίῳ"
+      ],
+      "targetText": [
+        "पवित्र"
+      ],
+      "sourceIds": [
+        "sources:43001033032"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bccf6088-5e61-4c38-b31c-9aaf87768fba",
+      "sourceText": [
+        "ἄρατε",
+        "ταῦτα",
+        "ἐντεῦθεν"
+      ],
+      "targetText": [
+        "इन्हें",
+        "यहाँ",
+        "से",
+        "ले",
+        "जाओ"
+      ],
+      "sourceIds": [
+        "sources:43002016007",
+        "sources:40006032003",
+        "sources:43002016009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bd509f31-0667-414c-be0e-2e7c4f7b62c3",
+      "sourceText": [
+        "ἀπόκρισιν"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001022007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bd9f96f2-7c60-4580-9254-6f2b1044190f",
+      "sourceText": [
+        "ἠγάπησεν"
+      ],
+      "targetText": [
+        "प्रेम"
+      ],
+      "sourceIds": [
+        "sources:43003016003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bdabda0f-fd11-4d03-9250-205a0e394a6f",
+      "sourceText": [
+        "νυμφίον"
+      ],
+      "targetText": [
+        "दूल्हे"
+      ],
+      "sourceIds": [
+        "sources:43002009025"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "be8d53bf-cb40-48e2-85f6-dd50df2401ab",
+      "sourceText": [
+        "νικόδημος"
+      ],
+      "targetText": [
+        "नीकुदेमुस"
+      ],
+      "sourceIds": [
+        "sources:43003001007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "bed7902d-00ce-4db7-9c02-5fa0c7942a5d",
+      "sourceText": [
+        "ἐρχόμενος"
+      ],
+      "targetText": [
+        "आता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001015015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c00dbc97-5ea1-4c26-b10d-73c35663225b",
+      "sourceText": [
+        "δόξαν"
+      ],
+      "targetText": [
+        "महिमा"
+      ],
+      "sourceIds": [
+        "sources:43001014013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c07b9b51-b3b0-4b81-aa51-89b4104724df",
+      "sourceText": [
+        "χριστὸς"
+      ],
+      "targetText": [
+        "मसीह"
+      ],
+      "sourceIds": [
+        "sources:43001025015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c0eaaf73-1d4a-4d4f-9f62-cabf47a6feed",
+      "sourceText": [
+        "νυμφίου"
+      ],
+      "targetText": [
+        "दूल्हे"
+      ],
+      "sourceIds": [
+        "sources:43003029011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c191fa03-eee0-4cfe-b0cd-0d6437a054fc",
+      "sourceText": [
+        "μαρτυρίαν",
+        "ἡμῶν",
+        "οὐ",
+        "λαμβάνετε"
+      ],
+      "targetText": [
+        "तुम",
+        "हमारी",
+        "गवाही",
+        "ग्रहण",
+        "नहीं",
+        "करते"
+      ],
+      "sourceIds": [
+        "sources:43001007004",
+        "sources:40006009006",
+        "sources:40005014007",
+        "sources:43003011018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c2bf2dc9-6eaa-4b06-8e77-53525bd7068b",
+      "sourceText": [
+        "γάμος"
+      ],
+      "targetText": [
+        "विवाह"
+      ],
+      "sourceIds": [
+        "sources:43002001006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c2dda203-4283-4f4b-9125-dc09ad962a74",
+      "sourceText": [
+        "ἰουδαίων"
+      ],
+      "targetText": [
+        "यहूदियों"
+      ],
+      "sourceIds": [
+        "sources:43002006011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c31d0f5a-bfbf-4566-8d33-a5433124f4c2",
+      "sourceText": [
+        "μωϋσῆς"
+      ],
+      "targetText": [
+        "मूसा"
+      ],
+      "sourceIds": [
+        "sources:43001045010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c322d43b-13ec-4286-b895-09601a4cbff5",
+      "sourceText": [
+        "ναθαναήλ"
+      ],
+      "targetText": [
+        "नतनएल"
+      ],
+      "sourceIds": [
+        "sources:43001046004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c3863d41-1304-4c11-8191-37ba0178d418",
+      "sourceText": [
+        "περιστερὰς"
+      ],
+      "targetText": [
+        "कबूतर"
+      ],
+      "sourceIds": [
+        "sources:43002014012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c4479ddd-3217-412e-ac8b-e0f20558f70b",
+      "sourceText": [
+        "ἴδε"
+      ],
+      "targetText": [
+        "देखो"
+      ],
+      "sourceIds": [
+        "sources:43001046017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c488bc49-37ff-41c8-b683-23d6fb3a053c",
+      "sourceText": [
+        "οὐδεὶς"
+      ],
+      "targetText": [
+        "कोई",
+        "नहीं"
+      ],
+      "sourceIds": [
+        "sources:43001018002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c4d97f6b-31d3-4c51-88b8-9c67b8f8952e",
+      "sourceText": [
+        "ἀλήθειαν"
+      ],
+      "targetText": [
+        "सच्चाई",
+        "पर"
+      ],
+      "sourceIds": [
+        "sources:43003021005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c527f32a-834f-4169-9aec-244a9dd5ca08",
+      "sourceText": [
+        "κείμεναι"
+      ],
+      "targetText": [
+        "रखे"
+      ],
+      "sourceIds": [
+        "sources:43002006012"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c5db0f5b-82e1-4755-bd2c-65668bedeb29",
+      "sourceText": [
+        "μαρτυρήσῃ"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001007006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c5f65cf4-8fc6-448a-a22d-90f207db1f61",
+      "sourceText": [
+        "ἔρχεσθε"
+      ],
+      "targetText": [
+        "चलो"
+      ],
+      "sourceIds": [
+        "sources:43001039003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c62f8936-0c8d-428f-b5ea-c07002154868",
+      "sourceText": [
+        "εἱστήκει"
+      ],
+      "targetText": [
+        "खड़े",
+        "हुए",
+        "थे"
+      ],
+      "sourceIds": [
+        "sources:43001035004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c6c1f2aa-ba84-414a-b92a-49ae5e73549d",
+      "sourceText": [
+        "πρόβατα"
+      ],
+      "targetText": [
+        "भेड़ों"
+      ],
+      "sourceIds": [
+        "sources:43002014010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c71d3278-a0c1-421c-98ea-6d791b4fb7dc",
+      "sourceText": [
+        "πέτρου"
+      ],
+      "targetText": [
+        "पतरस"
+      ],
+      "sourceIds": [
+        "sources:43001040006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c77c5bad-f346-4eaa-86fb-d554e4ed57a3",
+      "sourceText": [
+        "ἀνθρώπου"
+      ],
+      "targetText": [
+        "मनुष्य"
+      ],
+      "sourceIds": [
+        "sources:43001051024"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c787a2b5-e36a-4d72-8fc6-d3d240dc9541",
+      "sourceText": [
+        "ἐγγὺς"
+      ],
+      "targetText": [
+        "निकट"
+      ],
+      "sourceIds": [
+        "sources:43002013002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c7d17f45-77fe-44cc-aff9-88e21f6b9159",
+      "sourceText": [
+        "ἐμβλέψας"
+      ],
+      "targetText": [
+        "उस",
+        "पर",
+        "दृष्टि",
+        "करके"
+      ],
+      "sourceIds": [
+        "sources:43001036002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c85f9e79-586c-4069-81d1-8616102374af",
+      "sourceText": [
+        "ἰσραὴλ"
+      ],
+      "targetText": [
+        "इस्राएल",
+        "पर"
+      ],
+      "sourceIds": [
+        "sources:43001031009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c90495a1-071c-414b-b72d-daa462b90776",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c911dd7f-315e-44ee-b9c4-ba25313e94e9",
+      "sourceText": [
+        "ἰησοῦν"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001029005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c9ba9e62-61a0-4a80-b938-ce61f9a259c7",
+      "sourceText": [
+        "κολλυβιστῶν"
+      ],
+      "targetText": [
+        "सर्राफों"
+      ],
+      "sourceIds": [
+        "sources:43002015019"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "c9cd46bd-eadb-44fa-935c-e43d793d45b4",
+      "sourceText": [
+        "εἰμὶ"
+      ],
+      "targetText": [
+        "हूँ"
+      ],
+      "sourceIds": [
+        "sources:43001020011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ca67c974-6c06-46cc-bf44-5b04474c52ba",
+      "sourceText": [
+        "ἀναβαίνοντας"
+      ],
+      "targetText": [
+        "ऊपर",
+        "जाते"
+      ],
+      "sourceIds": [
+        "sources:43001051017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cafbd0b6-23fb-4243-8ccb-4ae4542914fb",
+      "sourceText": [
+        "μωϋσῆς"
+      ],
+      "targetText": [
+        "मूसा"
+      ],
+      "sourceIds": [
+        "sources:43001045010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cb788104-117a-4b22-98fe-1e139c0d1511",
+      "sourceText": [
+        "πέμψας"
+      ],
+      "targetText": [
+        "भेजा"
+      ],
+      "sourceIds": [
+        "sources:43001033007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cb9f138f-5216-4e5f-863a-cf1865aa8059",
+      "sourceText": [
+        "λέγεις"
+      ],
+      "targetText": [
+        "कहता"
+      ],
+      "sourceIds": [
+        "sources:43001022013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cbe9257f-8b5e-4362-9e55-1865a22aa6cb",
+      "sourceText": [
+        "ὕδωρ"
+      ],
+      "targetText": [
+        "पानी"
+      ],
+      "sourceIds": [
+        "sources:43002009007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ccee5e60-5f0f-4d10-bd1a-edf1bfb60ff0",
+      "sourceText": [
+        "εὑρήκαμεν"
+      ],
+      "targetText": [
+        "हमको",
+        "मिल",
+        "गया"
+      ],
+      "sourceIds": [
+        "sources:43001045017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cd4caff4-bcdc-4fcb-bbb0-2d51037b4c45",
+      "sourceText": [
+        "ἄνωθεν"
+      ],
+      "targetText": [
+        "नये",
+        "सिरे",
+        "से"
+      ],
+      "sourceIds": [
+        "sources:43003003014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cd599558-75d5-41fe-901c-6f27a3a14446",
+      "sourceText": [
+        "ἔλεγεν"
+      ],
+      "targetText": [
+        "यह",
+        "कहा",
+        "था"
+      ],
+      "sourceIds": [
+        "sources:43002021003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cd8f99ef-53e9-432f-87b9-478c39f32ca7",
+      "sourceText": [
+        "ποιήσας"
+      ],
+      "targetText": [
+        "बनाकर"
+      ],
+      "sourceIds": [
+        "sources:43002015002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cd99b1b7-7c7c-4dbf-8083-7a468830c532",
+      "sourceText": [
+        "μεθερμηνευόμενον"
+      ],
+      "targetText": [
+        "अर्थात्"
+      ],
+      "sourceIds": [
+        "sources:43001038020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ce02193e-deb8-4199-9d10-44c36f609015",
+      "sourceText": [
+        "εὐθύνατε"
+      ],
+      "targetText": [
+        "सीधा",
+        "करो"
+      ],
+      "sourceIds": [
+        "sources:43001023008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ce6f5262-a91c-44c4-b558-eb4990ce8738",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cea48ff1-31ef-4c12-b674-32d9794a46d2",
+      "sourceText": [
+        "γινώσκειν"
+      ],
+      "targetText": [
+        "जानता"
+      ],
+      "sourceIds": [
+        "sources:43002024011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cf215b52-4ce6-4590-8ba4-ac153aa7f6c0",
+      "sourceText": [
+        "ῥαββί"
+      ],
+      "targetText": [
+        "रब्बी"
+      ],
+      "sourceIds": [
+        "sources:43001038017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cf43dbec-aa16-4dab-ae7b-056adacad97a",
+      "sourceText": [
+        "ἐρήμῳ"
+      ],
+      "targetText": [
+        "जंगल"
+      ],
+      "sourceIds": [
+        "sources:43001023007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "cfdb24e8-72da-46ae-9bba-77f6186153b9",
+      "sourceText": [
+        "ἔρχου"
+      ],
+      "targetText": [
+        "चलकर"
+      ],
+      "sourceIds": [
+        "sources:43001046015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d039fe2c-0ca7-4ad3-9461-ff3f92271fdc",
+      "sourceText": [
+        "ἐρχόμενος"
+      ],
+      "targetText": [
+        "आनेवाला"
+      ],
+      "sourceIds": [
+        "sources:43001015015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d03ecd64-9567-4a65-840e-e18c5e9200ad",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा",
+        "था"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d0946270-16be-4ca9-8e84-1c14242ca751",
+      "sourceText": [
+        "δόλος"
+      ],
+      "targetText": [
+        "कपट"
+      ],
+      "sourceIds": [
+        "sources:43001047018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d29174bd-ff43-4d5a-a8c3-bf020cfc88c5",
+      "sourceText": [
+        "εὗρεν"
+      ],
+      "targetText": [
+        "पाया"
+      ],
+      "sourceIds": [
+        "sources:43002014002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d2a62586-4679-4625-a418-207fdd01c184",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d2e39f76-99bd-4d88-8e01-0753eac8860a",
+      "sourceText": [
+        "εἶπεν",
+        "εἶπόν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013",
+        "sources:43001050007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d2f9d458-8272-43c1-9875-9591ce898a24",
+      "sourceText": [
+        "ἰουδαίων"
+      ],
+      "targetText": [
+        "यहूदियों"
+      ],
+      "sourceIds": [
+        "sources:43002006011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d30cc162-c353-4cc6-b9a2-ebde751388a3",
+      "sourceText": [
+        "καθαρισμοῦ"
+      ],
+      "targetText": [
+        "शुद्धि",
+        "के",
+        "विषय"
+      ],
+      "sourceIds": [
+        "sources:43003025011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d312dbf9-2b03-487e-aa25-4fd6b8843328",
+      "sourceText": [
+        "καταβαῖνον"
+      ],
+      "targetText": [
+        "उतरते"
+      ],
+      "sourceIds": [
+        "sources:43001032009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d330b5f9-0814-4c62-93db-d3952214127b",
+      "sourceText": [
+        "ἐλήλυθας"
+      ],
+      "targetText": [
+        "आया",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003002014"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "d3508b6b-aaf8-462a-b6d4-1b54bcea7af0",
+      "sourceText": [
+        "λαλεῖ"
+      ],
+      "targetText": [
+        "कहता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003031020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d357ae8e-86c0-44cb-be37-b8a63379bfd0",
+      "sourceText": [
+        "ὡμολόγησεν"
+      ],
+      "targetText": [
+        "उसने",
+        "यह",
+        "मान",
+        "लिया"
+      ],
+      "sourceIds": [
+        "sources:43001020002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d3f20af6-ac7f-49b3-b803-d52212452892",
+      "sourceText": [
+        "ἑρμηνεύεται"
+      ],
+      "targetText": [
+        "अर्थात्"
+      ],
+      "sourceIds": [
+        "sources:43001042021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d49cc9b5-c79c-490e-9965-10c4008bff55",
+      "sourceText": [
+        "γεγραμμένον"
+      ],
+      "targetText": [
+        "लिखा"
+      ],
+      "sourceIds": [
+        "sources:43002017006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d5acf53c-cb8e-414e-a103-449bf6aa4856",
+      "sourceText": [
+        "πλήρης"
+      ],
+      "targetText": [
+        "परिपूर्ण"
+      ],
+      "sourceIds": [
+        "sources:43001014020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d5d26122-a64b-46ba-a317-8a8b5d733c28",
+      "sourceText": [
+        "ναθαναήλ"
+      ],
+      "targetText": [
+        "नतनएल"
+      ],
+      "sourceIds": [
+        "sources:43001046004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d612b941-ce5b-43b2-a14e-c8e9065c6927",
+      "sourceText": [
+        "δεύτερον",
+        "εἰσελθεῖν"
+      ],
+      "targetText": [
+        "दूसरी",
+        "बार",
+        "प्रवेश"
+      ],
+      "sourceIds": [
+        "sources:43003004020",
+        "sources:43003004021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d684409b-a2c4-4010-9daf-ff78b3c31544",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उत्तर",
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d6e22f52-aefa-48d2-b961-129c1cc56dde",
+      "sourceText": [
+        "μαρτυρεῖ"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001015002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d771cbfa-52c4-40e6-aec2-c679d20d2bc5",
+      "sourceText": [
+        "ἠθέλησεν"
+      ],
+      "targetText": [
+        "चाहा"
+      ],
+      "sourceIds": [
+        "sources:43001043003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d7a8a3b8-1dda-4390-b6d3-d0dd75f903ba",
+      "sourceText": [
+        "εἶπον"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001015011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d7cbbb1c-a07d-47ab-9d5a-6224d6d380ca",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d7f939c8-e05d-4890-83ec-a4f74953faba",
+      "sourceText": [
+        "ἀντλήσατε"
+      ],
+      "targetText": [
+        "निकालकर"
+      ],
+      "sourceIds": [
+        "sources:43002008004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d838806e-0f9a-436a-8544-078707002525",
+      "sourceText": [
+        "εἶπαν",
+        "αὐτῷ"
+      ],
+      "targetText": [
+        "उससे",
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001022001",
+        "sources:40005001013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d92c585d-c19f-4877-b0cb-d4f82d781050",
+      "sourceText": [
+        "ἐπαύριον"
+      ],
+      "targetText": [
+        "दूसरे",
+        "दिन"
+      ],
+      "sourceIds": [
+        "sources:43001029002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "d975925e-85b0-42d5-b3ad-325a115dff20",
+      "sourceText": [
+        "φωτίζει"
+      ],
+      "targetText": [
+        "प्रकाशित"
+      ],
+      "sourceIds": [
+        "sources:43001009007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "da3cd919-607a-4d52-a2e5-0cd70dd56265",
+      "sourceText": [
+        "σωθῇ",
+        "κόσμος",
+        "δι",
+        "αὐτοῦ"
+      ],
+      "targetText": [
+        "जगत",
+        "उसके",
+        "द्वारा",
+        "उद्धार",
+        "पाए"
+      ],
+      "sourceIds": [
+        "sources:43003017017",
+        "sources:43001010007",
+        "sources:40007013024",
+        "sources:40005001011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "da559244-1bcc-4616-b3ba-dfed85473896",
+      "sourceText": [
+        "κυρίου"
+      ],
+      "targetText": [
+        "प्रभु"
+      ],
+      "sourceIds": [
+        "sources:43001023011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "da59f9e3-2d9a-471c-b9f2-d28abc5e837a",
+      "sourceText": [
+        "ἀγαπᾷ",
+        "τὸν",
+        "υἱόν"
+      ],
+      "targetText": [
+        "पुत्र",
+        "से",
+        "प्रेम",
+        "रखता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003035003",
+        "sources:40005008008",
+        "sources:43003035005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "da63e20f-72e2-4826-9956-45679e9f6cbc",
+      "sourceText": [
+        "εἶπεν"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "db0580db-f006-47e1-a244-cbf70567bd51",
+      "sourceText": [
+        "οἴδαμεν"
+      ],
+      "targetText": [
+        "हम",
+        "जानते",
+        "हैं"
+      ],
+      "sourceIds": [
+        "sources:43003002010"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "dbbdca43-8aa3-4822-aa65-904416f01c22",
+      "sourceText": [
+        "ἱεροσολύμων"
+      ],
+      "targetText": [
+        "यरूशलेम"
+      ],
+      "sourceIds": [
+        "sources:43001019013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "dc02c638-8684-4905-a1a1-a2ef615749a7",
+      "sourceText": [
+        "βόας"
+      ],
+      "targetText": [
+        "बैलों"
+      ],
+      "sourceIds": [
+        "sources:43002014008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "dd03f0b0-9ea5-4948-953b-c3834fa17749",
+      "sourceText": [
+        "βαπτίζειν"
+      ],
+      "targetText": [
+        "बपतिस्मा",
+        "देने",
+        "को"
+      ],
+      "sourceIds": [
+        "sources:43001033009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "dd266f57-b768-4a85-bd41-6cc79278a7ca",
+      "sourceText": [
+        "ἀρχὴν"
+      ],
+      "targetText": [
+        "पहला"
+      ],
+      "sourceIds": [
+        "sources:43002011003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "de01bac6-1686-4b14-8138-3f5b3b70d3f9",
+      "sourceText": [
+        "ἴδιοι"
+      ],
+      "targetText": [
+        "अपनों"
+      ],
+      "sourceIds": [
+        "sources:43001011007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "de16c93b-f382-4688-afa8-4aa64ca8c6f0",
+      "sourceText": [
+        "ἴδε"
+      ],
+      "targetText": [
+        "देख",
+        "ले"
+      ],
+      "sourceIds": [
+        "sources:43001046017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "de3bbfda-cd2e-452c-b674-03fdbe657324",
+      "sourceText": [
+        "ἐμοὶ"
+      ],
+      "targetText": [
+        "मुझे"
+      ],
+      "sourceIds": [
+        "sources:43002004007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "de722a6a-4450-460d-81ac-1128d7a5d08b",
+      "sourceText": [
+        "τεσσεράκοντα",
+        "καὶ",
+        "ἓξ",
+        "ἔτεσιν"
+      ],
+      "targetText": [
+        "छियालीस",
+        "वर्ष"
+      ],
+      "sourceIds": [
+        "sources:43002020005",
+        "sources:40005001009",
+        "sources:43002006006",
+        "sources:43002020008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "df06afcf-0c20-4209-b350-90b042c852c6",
+      "sourceText": [
+        "ὀπίσω",
+        "μου"
+      ],
+      "targetText": [
+        "मेरे",
+        "बाद"
+      ],
+      "sourceIds": [
+        "sources:43001015013",
+        "sources:40007021021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "df25b9f5-b15b-4b6f-8a7f-91d9df634657",
+      "sourceText": [
+        "ἀνὴρ"
+      ],
+      "targetText": [
+        "एक",
+        "पुरुष"
+      ],
+      "sourceIds": [
+        "sources:43001030010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "df8f6b3a-326e-42e8-88b7-d59dd49a62a6",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e23d8cf1-4315-4616-a65f-41316d9a17fd",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e242b06b-dced-4f93-bfba-5a4e87f8c03b",
+      "sourceText": [
+        "φωνὴ"
+      ],
+      "targetText": [
+        "शब्द"
+      ],
+      "sourceIds": [
+        "sources:43001023003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e3639349-68bd-4fa8-b9ba-08ff8c3f48c4",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e3b30a39-632b-4f10-990d-4b6d70903ebf",
+      "sourceText": [
+        "προφήτης"
+      ],
+      "targetText": [
+        "भविष्यद्वक्ता"
+      ],
+      "sourceIds": [
+        "sources:43001021014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e407dbcd-da63-4f8a-8620-8766e75a6cf9",
+      "sourceText": [
+        "κόσμον"
+      ],
+      "targetText": [
+        "जगत"
+      ],
+      "sourceIds": [
+        "sources:43001009013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e41ac2c5-aa40-482f-b37b-a60d2b5890ee",
+      "sourceText": [
+        "φανερωθῇ"
+      ],
+      "targetText": [
+        "प्रगट"
+      ],
+      "sourceIds": [
+        "sources:43001031007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e4f12ac8-4cfb-4814-825b-dc5160ba3f0c",
+      "sourceText": [
+        "ἐξηγήσατο"
+      ],
+      "targetText": [
+        "प्रगट",
+        "किया"
+      ],
+      "sourceIds": [
+        "sources:43001018015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e502cee2-bded-4ae8-90b7-bb6946c5a3f7",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e51a87f6-4e75-44fc-acf7-f68e38551ae4",
+      "sourceText": [
+        "σημεῖον"
+      ],
+      "targetText": [
+        "चिन्ह"
+      ],
+      "sourceIds": [
+        "sources:43002018009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e54bf685-b17a-49aa-b4c4-f65b9462dacb",
+      "sourceText": [
+        "ὀπίσω"
+      ],
+      "targetText": [
+        "पीछे"
+      ],
+      "sourceIds": [
+        "sources:43001015013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e577b603-4025-4f17-b0a7-fceb3cb11102",
+      "sourceText": [
+        "νόμῳ"
+      ],
+      "targetText": [
+        "व्यवस्था"
+      ],
+      "sourceIds": [
+        "sources:43001045013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e58b186b-f88e-4b2d-86e4-11eb927ffd4d",
+      "sourceText": [
+        "ἀπειθῶν"
+      ],
+      "targetText": [
+        "नहीं",
+        "मानता"
+      ],
+      "sourceIds": [
+        "sources:43003036011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e636c09b-6ee7-4e39-873a-b4870bf8d0e1",
+      "sourceText": [
+        "εἶναι"
+      ],
+      "targetText": [
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001046010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e640dbd8-632d-41cf-9db3-331d5bff0201",
+      "sourceText": [
+        "ἠκολούθησαν"
+      ],
+      "targetText": [
+        "पीछे",
+        "हो",
+        "लिए"
+      ],
+      "sourceIds": [
+        "sources:43001037009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e6d2ae35-877f-4373-b33d-7896ff9dd9f1",
+      "sourceText": [
+        "ἄξιος"
+      ],
+      "targetText": [
+        "योग्य"
+      ],
+      "sourceIds": [
+        "sources:43001027008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e6d7026d-381e-4bd4-81e0-7fe07aadff8e",
+      "sourceText": [
+        "ναὸς"
+      ],
+      "targetText": [
+        "मन्दिर"
+      ],
+      "sourceIds": [
+        "sources:43002020011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e7f171ea-4d76-4eba-918d-bdcfd8d73f73",
+      "sourceText": [
+        "πέτρος"
+      ],
+      "targetText": [
+        "पतरस"
+      ],
+      "sourceIds": [
+        "sources:43001042022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e83406c4-5932-4d32-83f0-93593cde7228",
+      "sourceText": [
+        "αἴρων"
+      ],
+      "targetText": [
+        "हरता"
+      ],
+      "sourceIds": [
+        "sources:43001029017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e8666c71-f007-4392-90f6-7567654f5556",
+      "sourceText": [
+        "ἠρώτησαν"
+      ],
+      "targetText": [
+        "उन्होंने",
+        "उससे",
+        "पूछा"
+      ],
+      "sourceIds": [
+        "sources:43001021002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e8dbca89-09b8-444d-b07d-b6cbcc4feb9a",
+      "sourceText": [
+        "λαβὼν"
+      ],
+      "targetText": [
+        "ग्रहण",
+        "कर",
+        "ली"
+      ],
+      "sourceIds": [
+        "sources:43003033002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e8dc98c1-58f3-4f7c-88bd-1150b1924e09",
+      "sourceText": [
+        "ἄνθρωπον"
+      ],
+      "targetText": [
+        "मनुष्य"
+      ],
+      "sourceIds": [
+        "sources:43001009009"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e950fe91-3633-400c-ad09-8b028546665c",
+      "sourceText": [
+        "δέδωκεν"
+      ],
+      "targetText": [
+        "दे",
+        "दी",
+        "हैं"
+      ],
+      "sourceIds": [
+        "sources:43003035008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "e9c9f296-5187-4cda-918f-8b7548e18bcd",
+      "sourceText": [
+        "ἐγίνωσκεν"
+      ],
+      "targetText": [
+        "जानता"
+      ],
+      "sourceIds": [
+        "sources:43002025014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ea9e63ad-fe98-4315-9d97-85751e1987e8",
+      "sourceText": [
+        "ζήτησις"
+      ],
+      "targetText": [
+        "वाद-विवाद"
+      ],
+      "sourceIds": [
+        "sources:43003025003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "eb148298-6a68-4bad-a0b7-cb5ec135a249",
+      "sourceText": [
+        "ῥαββί"
+      ],
+      "targetText": [
+        "रब्बी"
+      ],
+      "sourceIds": [
+        "sources:43001038017"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "eb5c721a-7a21-48f3-84a9-ae537392a5fe",
+      "sourceText": [
+        "πάντας"
+      ],
+      "targetText": [
+        "सब"
+      ],
+      "sourceIds": [
+        "sources:43002015006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ec0d0319-16f0-4a21-91c6-f4ef32ce9741",
+      "sourceText": [
+        "καθημένους"
+      ],
+      "targetText": [
+        "बैठे"
+      ],
+      "sourceIds": [
+        "sources:43002014016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ed4943dd-7be8-4908-8a1f-7d200da528d5",
+      "sourceText": [
+        "ἰωάννης"
+      ],
+      "targetText": [
+        "यूहन्ना",
+        "था"
+      ],
+      "sourceIds": [
+        "sources:43001006008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ed8b140b-2843-40de-bf18-36667fffe090",
+      "sourceText": [
+        "ἐπίστευσαν"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43002011018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ed9639f4-aed3-4fa6-a870-0b620d20ff97",
+      "sourceText": [
+        "ἐρχόμενον"
+      ],
+      "targetText": [
+        "आनेवाली"
+      ],
+      "sourceIds": [
+        "sources:43001009010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ee43abe2-1bc2-48d6-aa6c-a95f5f4253c8",
+      "sourceText": [
+        "ὕδωρ"
+      ],
+      "targetText": [
+        "पानी"
+      ],
+      "sourceIds": [
+        "sources:43002009007"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ee67b216-7ebe-4694-85fd-404e98559855",
+      "sourceText": [
+        "τρεῖς"
+      ],
+      "targetText": [
+        "तीन-तीन"
+      ],
+      "sourceIds": [
+        "sources:43002006018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "eed84b39-35b5-434d-8ba3-15d2bf14bcac",
+      "sourceText": [
+        "φίλιππον"
+      ],
+      "targetText": [
+        "फिलिप्पुस"
+      ],
+      "sourceIds": [
+        "sources:43001043010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "eef0976c-8579-4bf6-9ce6-04fd2d2939da",
+      "sourceText": [
+        "χριστοῦ"
+      ],
+      "targetText": [
+        "मसीह"
+      ],
+      "sourceIds": [
+        "sources:43001017014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ef315d94-54f4-4253-9b39-2a9114f4afc6",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "eff942ec-213b-4837-8dc5-c348e21c6be7",
+      "sourceText": [
+        "κρίσις"
+      ],
+      "targetText": [
+        "दण्ड",
+        "की",
+        "आज्ञा"
+      ],
+      "sourceIds": [
+        "sources:43003019005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f07cb93e-87a5-48a7-874f-6b8b949e75c2",
+      "sourceText": [
+        "υἱῷ"
+      ],
+      "targetText": [
+        "पुत्र"
+      ],
+      "sourceIds": [
+        "sources:43003036013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f1438d29-d72e-4c42-8489-9151e8905ae5",
+      "sourceText": [
+        "τίθησιν"
+      ],
+      "targetText": [
+        "देता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43002010010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f1b4b4de-6ece-46f8-bd44-ec47ab6030c8",
+      "sourceText": [
+        "πιστεύων"
+      ],
+      "targetText": [
+        "विश्वास"
+      ],
+      "sourceIds": [
+        "sources:43003015004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f1ea2873-340b-4775-8007-38ba8b4828ad",
+      "sourceText": [
+        "τέκνα"
+      ],
+      "targetText": [
+        "सन्तान"
+      ],
+      "sourceIds": [
+        "sources:43001012008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f22919ee-28c9-41de-aca1-485a1c2760a8",
+      "sourceText": [
+        "τραπέζας",
+        "ἀνέστρεψεν"
+      ],
+      "targetText": [
+        "मेजें",
+        "उलट",
+        "दीं"
+      ],
+      "sourceIds": [
+        "sources:43002015025",
+        "sources:43002015026"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f2333a5b-e4ac-4617-a813-249a39421c90",
+      "sourceText": [
+        "ἐρχόμενον"
+      ],
+      "targetText": [
+        "आते"
+      ],
+      "sourceIds": [
+        "sources:43001009010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f3aea60c-50b0-4e95-b5e7-c6a04fdad53b",
+      "sourceText": [
+        "ἦσαν"
+      ],
+      "targetText": [
+        "थे"
+      ],
+      "sourceIds": [
+        "sources:43001024003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f3c1fb77-da4e-4bf9-b7b0-fa32fa9fe4aa",
+      "sourceText": [
+        "ἔφη"
+      ],
+      "targetText": [
+        "उसने",
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001023001"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f60685b9-44a5-432c-8ec0-07801c7e8c03",
+      "sourceText": [
+        "πνεῦμα"
+      ],
+      "targetText": [
+        "आत्मा"
+      ],
+      "sourceIds": [
+        "sources:43001032008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f64070ee-c63d-4a69-a7d1-9709abdf17e9",
+      "sourceText": [
+        "χαρᾷ",
+        "χαίρει"
+      ],
+      "targetText": [
+        "बहुत",
+        "हर्षित"
+      ],
+      "sourceIds": [
+        "sources:43003029017",
+        "sources:43003029018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f65512fb-45c7-497b-a4fe-e291c5cdec40",
+      "sourceText": [
+        "μαρτυρήσῃ"
+      ],
+      "targetText": [
+        "गवाही",
+        "देने",
+        "के",
+        "लिये"
+      ],
+      "sourceIds": [
+        "sources:43001007006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f67b5c46-d628-4667-b7d6-5b4d8fd0d241",
+      "sourceText": [
+        "ποιεῖς"
+      ],
+      "targetText": [
+        "करता",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43002018014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f6d87d28-9090-4fdb-9aa4-3fb9585e1134",
+      "sourceText": [
+        "πέραν"
+      ],
+      "targetText": [
+        "पार"
+      ],
+      "sourceIds": [
+        "sources:43001028005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f6ec9ff1-cec1-4721-8272-a62a6f38f429",
+      "sourceText": [
+        "μήτηρ"
+      ],
+      "targetText": [
+        "माता"
+      ],
+      "sourceIds": [
+        "sources:43002001015"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f719e401-2966-45bb-8a28-f00ff08f6eac",
+      "sourceText": [
+        "ἀπεκρίθη"
+      ],
+      "targetText": [
+        "उसने",
+        "उत्तर",
+        "दिया"
+      ],
+      "sourceIds": [
+        "sources:43001021018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f74ec17e-09f1-4fc1-8663-73c88f60848c",
+      "sourceText": [
+        "περιστερὰν"
+      ],
+      "targetText": [
+        "कबूतर"
+      ],
+      "sourceIds": [
+        "sources:43001032011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f762ca4e-26ba-429d-b99d-a5087672ed21",
+      "sourceText": [
+        "γεγεννημένον",
+        "ἐκ",
+        "τοῦ",
+        "πνεύματος"
+      ],
+      "targetText": [
+        "आत्मा",
+        "से",
+        "जन्मा",
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43003006002",
+        "sources:40005037014",
+        "sources:40005014005",
+        "sources:43003005014"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f78c4304-6dc7-48b1-849f-cf1a1936fcd7",
+      "sourceText": [
+        "χάριτος"
+      ],
+      "targetText": [
+        "अनुग्रह"
+      ],
+      "sourceIds": [
+        "sources:43001014021"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f8a8fd79-a007-465a-a072-4ede5e3ce0a8",
+      "sourceText": [
+        "λύσατε"
+      ],
+      "targetText": [
+        "ढा"
+      ],
+      "sourceIds": [
+        "sources:43002019006"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f8c83daa-b68f-49ce-9b48-a1ac9ab61612",
+      "sourceText": [
+        "φίλιππος"
+      ],
+      "targetText": [
+        "फिलिप्पुस"
+      ],
+      "sourceIds": [
+        "sources:43001044004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f8ecdfc1-6180-4535-8e6e-0d0badfc9833",
+      "sourceText": [
+        "ἐμβλέψας"
+      ],
+      "targetText": [
+        "दृष्टि",
+        "करके"
+      ],
+      "sourceIds": [
+        "sources:43001036002"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f9440df6-62ce-4fda-b20c-7824080699f0",
+      "sourceText": [
+        "ὀπίσω"
+      ],
+      "targetText": [
+        "बाद"
+      ],
+      "sourceIds": [
+        "sources:43001015013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f95b9cb9-a622-42d3-ae67-85b268464967",
+      "sourceText": [
+        "λέγει"
+      ],
+      "targetText": [
+        "कहा"
+      ],
+      "sourceIds": [
+        "sources:43001021010"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f97d335c-2499-4b6c-97bf-c56422a91c59",
+      "sourceText": [
+        "αὐξάνειν"
+      ],
+      "targetText": [
+        "बढ़े"
+      ],
+      "sourceIds": [
+        "sources:43003030003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "f9c09503-93a3-48ee-858f-feb4012299b3",
+      "sourceText": [
+        "καφαρναοὺμ"
+      ],
+      "targetText": [
+        "कफरनहूम"
+      ],
+      "sourceIds": [
+        "sources:43002012005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fa1cf370-ec7c-4d6c-8cfa-96ca8d46293b",
+      "sourceText": [
+        "μωϋσέως"
+      ],
+      "targetText": [
+        "मूसा"
+      ],
+      "sourceIds": [
+        "sources:43001017005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fabe45f5-20be-40e6-b4b1-05d38264e1c9",
+      "sourceText": [
+        "λευίτας"
+      ],
+      "targetText": [
+        "लेवियों"
+      ],
+      "sourceIds": [
+        "sources:43001019016"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fae51fe5-7f82-41e4-9db9-43a2f67c0855",
+      "sourceText": [
+        "ἔστιν"
+      ],
+      "targetText": [
+        "है"
+      ],
+      "sourceIds": [
+        "sources:43001047020"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fbd5e8e6-25ae-427a-a631-1f962d8ca564",
+      "sourceText": [
+        "βηθανίᾳ"
+      ],
+      "targetText": [
+        "बैतनिय्याह"
+      ],
+      "sourceIds": [
+        "sources:43001028003"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fbe9c1de-458d-450d-aa23-a87cb2668ef2",
+      "sourceText": [
+        "κοιλίαν",
+        "μητρὸς"
+      ],
+      "targetText": [
+        "माता",
+        "के",
+        "गर्भ"
+      ],
+      "sourceIds": [
+        "sources:43003004016",
+        "sources:43003004018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fc11ff04-5d6e-4a94-97f6-0f5a0febdbee",
+      "sourceText": [
+        "ἐρωτήσωσιν"
+      ],
+      "targetText": [
+        "पूछने"
+      ],
+      "sourceIds": [
+        "sources:43001019018"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fc7295df-b54d-4efb-8370-6dbaec28acb2",
+      "sourceText": [
+        "σημεῖα"
+      ],
+      "targetText": [
+        "चिन्हों"
+      ],
+      "sourceIds": [
+        "sources:43002023022"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "fd02abae-0650-493a-8e00-5e830535b3ba",
+      "sourceText": [
+        "πνεῦμα"
+      ],
+      "targetText": [
+        "आत्मा"
+      ],
+      "sourceIds": [
+        "sources:43001032008"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fd1d0f3c-af14-4501-b55a-48bd5ced6446",
+      "sourceText": [
+        "οὔπω"
+      ],
+      "targetText": [
+        "उस",
+        "समय",
+        "तक",
+        "नहीं"
+      ],
+      "sourceIds": [
+        "sources:43002004011"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fd745f95-51d7-4d1f-8700-253d694ec3b5",
+      "sourceText": [
+        "σημεῖα"
+      ],
+      "targetText": [
+        "चिन्हों"
+      ],
+      "sourceIds": [
+        "sources:43002023022"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "fdb15620-e867-4f7a-a89f-50222aa78fc9",
+      "sourceText": [
+        "οὐδεὶς"
+      ],
+      "targetText": [
+        "कोई"
+      ],
+      "sourceIds": [
+        "sources:43001018002"
+      ],
+      "origin": "manual",
+      "status": "approved"
+    },
+    {
+      "id": "fdd33f9b-33af-47b6-a967-84719e931ca4",
+      "sourceText": [
+        "μαρτυρίαν"
+      ],
+      "targetText": [
+        "गवाही"
+      ],
+      "sourceIds": [
+        "sources:43001007004"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "feac52c9-6fe8-4fcb-b565-b92389f7a254",
+      "sourceText": [
+        "ἀρχιτρίκλινος"
+      ],
+      "targetText": [
+        "भोज",
+        "के",
+        "प्रधान"
+      ],
+      "sourceIds": [
+        "sources:43002009005"
+      ],
+      "origin": "manual",
+      "status": "created"
+    },
+    {
+      "id": "ffb1c67c-884b-45ac-8e8e-de59e6a0186f",
+      "sourceText": [
+        "ἰησοῦ"
+      ],
+      "targetText": [
+        "यीशु"
+      ],
+      "sourceIds": [
+        "sources:43001017013"
+      ],
+      "origin": "manual",
+      "status": "created"
+    }
+  ]
+}

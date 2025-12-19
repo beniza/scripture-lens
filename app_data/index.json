@@ -1,0 +1,42 @@
+{
+  "sources": {
+    "greek": {
+      "folder": "sources/greek"
+    },
+    "hebrew": {
+      "folder": "sources/hebrew"
+    }
+  },
+  "dictionaries": {
+    "greek": "UBSGreekNTDic-v1.1-en.json",
+    "hebrew": "UBSHebrewDic-v0.9.1-en.json"
+  },
+  "projects": {
+    "irvhin": {
+      "name": "IRVHin NT Merged",
+      "language": "hin",
+      "sourceDatabase": "demo-scripture-lens.sqlite",
+      "targetFolder": "targets/irvhin",
+      "alignmentFolder": "alignments/irvhin",
+      "stats": {
+        "targetBooks": 3,
+        "alignmentBooks": 2,
+        "alignmentCount": 2525
+      },
+      "books": [
+        {
+          "book": 40,
+          "bookName": "Matthew",
+          "alignmentCount": 1903,
+          "file": "40_matthew.json"
+        },
+        {
+          "book": 43,
+          "bookName": "John",
+          "alignmentCount": 622,
+          "file": "43_john.json"
+        }
+      ]
+    }
+  }
+}
