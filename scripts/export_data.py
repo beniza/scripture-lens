@@ -23,8 +23,8 @@ import urllib.request
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Configuration
-DATA_DIR = Path(__file__).parent / "data"
-APP_DATA_DIR = Path(__file__).parent / "app_data"
+DATA_DIR = Path(__file__).parent.parent / "data"
+APP_DATA_DIR = Path(__file__).parent.parent / "app_data"
 
 # Bible book info
 BIBLE_BOOKS = {
@@ -117,6 +117,9 @@ def export_source_text(conn, sources_exported):
                id, text, lemma, gloss, language_id, required, after
         FROM words_or_parts
         WHERE side = 'sources'
+          AND ((position_book = 43 AND position_chapter IN (1,2,3)) OR
+               (position_book = 45 AND position_chapter IN (1,2,3,4,5,6,7,8)) OR
+               (position_book = 40 AND position_chapter IN (5,6,7)))
         ORDER BY position_book, position_chapter, position_verse, position_word
     """)
     
@@ -193,6 +196,9 @@ def export_target_text(conn, project_id):
                id, text, normalized_text, gloss, language_id, after
         FROM words_or_parts
         WHERE side LIKE 'target%'
+          AND ((position_book = 43 AND position_chapter IN (1,2,3)) OR
+               (position_book = 45 AND position_chapter IN (1,2,3,4,5,6,7,8)) OR
+               (position_book = 40 AND position_chapter IN (5,6,7)))
         ORDER BY position_book, position_chapter, position_verse, position_word
     """)
     
@@ -423,8 +429,9 @@ def main():
     print("Bible Alignment App - Multi-Database Export")
     print("=" * 60)
     
-    # Find all SQLite databases
+    # Find all SQLite databases (clear-aligner and demo patterns)
     db_files = list(DATA_DIR.glob("clear-aligner-*.sqlite"))
+    db_files.extend(DATA_DIR.glob("demo-*.sqlite"))
     # Exclude the "-updated" variant
     db_files = [f for f in db_files if "-updated" not in f.name]
     
