@@ -35,7 +35,7 @@ def _load_interlinear_sqlite(db_path, position_book, position_chapter):
     FROM words_or_parts sw
     LEFT JOIN links__source_words lsw ON sw.id = lsw.word_id
     LEFT JOIN links l ON lsw.link_id = l.id
-    LEFT JOIN links__target_words ltw ON l.id = ltw.word_id
+    LEFT JOIN links__target_words ltw ON l.id = ltw.link_id
     LEFT JOIN words_or_parts tw ON ltw.word_id = tw.id
     WHERE sw.side = 'sources'
       AND sw.position_book = ?
@@ -92,7 +92,10 @@ def _load_interlinear_json(project_id, position_book, position_chapter, reverse=
         break
         
     if not align_file or not align_file.exists():
-        return pd.DataFrame()
+        if reverse:
+            return pd.DataFrame(columns=['target_id', 'target_text', 'position_verse', 'target_position', 'source_text', 'lemma', 'gloss', 'status'])
+        else:
+            return pd.DataFrame(columns=['source_id', 'source_text', 'lemma', 'gloss', 'normalized_text', 'position_verse', 'position_word', 'status', 'target_text'])
         
     with open(align_file, 'r', encoding='utf-8') as f:
         align_data = json.load(f)
@@ -101,7 +104,7 @@ def _load_interlinear_json(project_id, position_book, position_chapter, reverse=
     if reverse:
         target_file = APP_DATA_DIR / "targets" / project_id / align_file.name
         if not target_file.exists():
-            return pd.DataFrame()
+            return pd.DataFrame(columns=['target_id', 'target_text', 'position_verse', 'target_position', 'source_text', 'lemma', 'gloss', 'status'])
         with open(target_file, 'r', encoding='utf-8') as f:
             target_data = json.load(f)
             
@@ -127,6 +130,10 @@ def _load_interlinear_json(project_id, position_book, position_chapter, reverse=
                         'gloss': '',
                         'status': align.get('status', '')
                     })
+        df = pd.DataFrame(records)
+        if df.empty:
+            return pd.DataFrame(columns=['target_id', 'target_text', 'position_verse', 'target_position', 'source_text', 'lemma', 'gloss', 'status'])
+        return df
     else:
         # Standard interlinear - reconstruct from alignments
         src_map = {}
@@ -149,9 +156,10 @@ def _load_interlinear_json(project_id, position_book, position_chapter, reverse=
                         'status': rec.get('status'),
                         'target_text': ' '.join(rec.get('targetText', []))
                     }
-        return pd.DataFrame(src_map.values()).sort_values(['position_verse', 'position_word'])
-
-    return pd.DataFrame(records)
+        df = pd.DataFrame(src_map.values())
+        if df.empty:
+            return pd.DataFrame(columns=['source_id', 'source_text', 'lemma', 'gloss', 'normalized_text', 'position_verse', 'position_word', 'status', 'target_text'])
+        return df.sort_values(['position_verse', 'position_word'])
 
 
 def render(project_name, db_path):
@@ -248,10 +256,10 @@ def render(project_name, db_path):
                 # Grid layout - compact table-like view
                 grid_html = '<div style="display:flex; flex-wrap:wrap; gap:2px;">'
                 for word in words_list:
-                    source = word['source_text'] or ''
+                    source = word.get('source_text', '') or ''
                     lemma = word.get('lemma', '') or ''
                     gloss = word.get('gloss', '') or ''
-                    target = word['target_text'] or ''
+                    target = word.get('target_text', '') or ''
                     
                     # Build tooltip
                     tooltip_parts = []
@@ -289,10 +297,10 @@ def render(project_name, db_path):
                     
                     for idx, word in enumerate(row_words):
                         with cols[idx]:
-                            source = word['source_text'] or ''
+                            source = word.get('source_text', '') or ''
                             lemma = word.get('lemma', '') or ''
                             gloss = word.get('gloss', '') or ''
-                            target = word['target_text'] or ''
+                            target = word.get('target_text', '') or ''
                             
                             # Tooltip for card
                             tooltip = f"Source: {source}"

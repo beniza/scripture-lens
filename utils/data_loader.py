@@ -184,7 +184,14 @@ def _load_data_json(project_id):
         except Exception:
             continue
             
-    return pd.DataFrame(records)
+    df = pd.DataFrame(records)
+    if df.empty:
+        return pd.DataFrame(columns=[
+            'id', 'status', 'origin', 'source_text', 'is_required', 'min_src_pos', 
+            'target_text', 'min_tgt_pos', 'position_book', 'position_chapter', 
+            'position_verse', 'book_name', 'testament'
+        ])
+    return df
 
 
 @st.cache_data
@@ -240,7 +247,12 @@ def _load_completion_json(project_id):
                 })
             return pd.DataFrame(records)
     except Exception:
-        return pd.DataFrame()
+        pass
+        
+    return pd.DataFrame(columns=[
+        'position_book', 'book_name', 'total_required', 'completed', 
+        'Completion %', 'testament'
+    ])
 
 
 @st.cache_data

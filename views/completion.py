@@ -12,7 +12,7 @@ from utils import load_completion_data
 def render(df, project_name, db_path):
     """Completion overview page with charts and summary."""
     st.title(f"📊 {project_name}")
-    if db_path:
+    if db_path and os.path.exists(db_path):
         st.caption(f"Database: {os.path.basename(db_path)}")
     else:
         st.caption("Mode: Optimized JSON (Exported Data)")
@@ -26,17 +26,18 @@ def render(df, project_name, db_path):
     comp_df = load_completion_data(project_name, db_path)
     
     # Apply testament filter
-    if testament_filter == "NT":
-        comp_df = comp_df[comp_df['position_book'] >= 40]
-    elif testament_filter == "OT":
-        comp_df = comp_df[comp_df['position_book'] <= 39]
-    
-    # Optionally hide books with 0% completion
-    if not show_empty:
-        comp_df = comp_df[comp_df['completed'] > 0]
+    if not comp_df.empty:
+        if testament_filter == "NT":
+            comp_df = comp_df[comp_df['position_book'] >= 40]
+        elif testament_filter == "OT":
+            comp_df = comp_df[comp_df['position_book'] <= 39]
+        
+        # Optionally hide books with 0% completion
+        if not show_empty:
+            comp_df = comp_df[comp_df['completed'] > 0]
     
     if comp_df.empty:
-        st.warning("No books found matching the filter.")
+        st.warning("No completion data found for this project.")
         return
 
     # Visual Overview - Completion Percentage Bar Chart
@@ -54,32 +55,35 @@ def render(df, project_name, db_path):
     st.markdown("---")
     st.subheader("Alignment Status Distribution by Book")
     
-    # Aggregate data by book from main df
-    book_stats = df.groupby(['position_book', 'book_name', 'status']).size().unstack(fill_value=0).reset_index()
-    # Filter to only include books present in comp_df
-    book_stats = book_stats[book_stats['book_name'].isin(comp_df['book_name'])]
-    for status in ['approved', 'created', 'rejected', 'needsReview']:
-        if status not in book_stats.columns:
-            book_stats[status] = 0
-            
-    # Sorting by canonical order
-    book_stats = book_stats.sort_values('position_book')
+    if not df.empty and all(col in df.columns for col in ['position_book', 'book_name', 'status']):
+        # Aggregate data by book from main df
+        book_stats = df.groupby(['position_book', 'book_name', 'status']).size().unstack(fill_value=0).reset_index()
+        # Filter to only include books present in comp_df
+        book_stats = book_stats[book_stats['book_name'].isin(comp_df['book_name'])]
+        for status in ['approved', 'created', 'rejected', 'needsReview']:
+            if status not in book_stats.columns:
+                book_stats[status] = 0
+                
+        # Sorting by canonical order
+        book_stats = book_stats.sort_values('position_book')
 
-    plot_df = book_stats.melt(id_vars=['book_name'], value_vars=['approved', 'created', 'rejected', 'needsReview'],
-                              var_name='Status', value_name='Count')
-    
-    fig_status = px.bar(plot_df, x='book_name', y='Count', color='Status',
-                 color_discrete_map={
-                     'approved': '#2ecc71', # Green
-                     'created': '#3498db',  # Blue
-                     'rejected': '#e74c3c', # Red
-                     'needsReview': '#f1c40f' # Yellow
-                 },
-                 category_orders={"book_name": book_stats['book_name'].tolist()})
-    
-    fig_status.update_layout(xaxis_title="Book", yaxis_title="Number of Links", height=350, 
-                             margin=dict(l=20, r=20, t=20, b=20))
-    st.plotly_chart(fig_status, use_container_width=True)
+        plot_df = book_stats.melt(id_vars=['book_name'], value_vars=['approved', 'created', 'rejected', 'needsReview'],
+                                  var_name='Status', value_name='Count')
+        
+        fig_status = px.bar(plot_df, x='book_name', y='Count', color='Status',
+                     color_discrete_map={
+                         'approved': '#2ecc71', # Green
+                         'created': '#3498db',  # Blue
+                         'rejected': '#e74c3c', # Red
+                         'needsReview': '#f1c40f' # Yellow
+                     },
+                     category_orders={"book_name": book_stats['book_name'].tolist()})
+        
+        fig_status.update_layout(xaxis_title="Book", yaxis_title="Number of Links", height=350, 
+                                 margin=dict(l=20, r=20, t=20, b=20))
+        st.plotly_chart(fig_status, use_container_width=True)
+    else:
+        st.info("Detailed status distribution not available in JSON demo mode.")
 
     # Summary Table
     st.subheader("Detailed Completion Summary")
