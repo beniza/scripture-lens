@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 
 # Data exports (regenerate with export_data.py)
-app_data/
+# app_data/
 
 # Conversations and session logs
 .conversations/
