@@ -9,7 +9,7 @@ from utils import (
     get_available_databases,
     load_data,
 )
-from pages import (
+from views import (
     scripture,
     drill_down,
     completion,
